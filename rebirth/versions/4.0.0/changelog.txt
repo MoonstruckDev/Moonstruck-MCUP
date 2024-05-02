@@ -1,0 +1,77 @@
+## Polish & Performance
+- New Fancy Menus!
+- Removed modded logs from chipped roster, saving ~1GB of RAM.
+
+**Breaking Update**
+
+### Added Mods
+- Armor Stands
+- Showcase Item
+- Bridging Mod
+- Modpack Update Checker
+- Freecam
+- Embeddium
+- Embeddium++
+- TexTrue’s Embeddium Options
+- Guard Villagers
+- Sparse Structures Reforged 
+- Weather Settings to combat lightning spawning in day due to longer day
+
+### Fixes
+- Fixed Fishing Line not displaying colors when dyed
+- Fixed Wood Signs not stopping water flow
+- Fixed Missing Plank recipes (fixed in last version and confirmed to work)
+- Fixed Aether Regenerated not being added by default
+- Fixed Slime Sling with Dolphins Grace effect
+- Fixed momentum being kept if the player starts flying/swimming after using the Slime Sling
+- Fixed the player being able to keep momentum and continue bouncing endlessly below 1.5 blocks of fall distance by holding the jump key (config available to re-enable)
+
+### Updates
+- New FancyMenu redesigns! (Special thanks to Efraim!)
+- Changed BetterF3 to hide some values by default
+- Disabled Potion effect in Debug menu to prevent overlap
+- Brought back enchanting table language
+- Reduced Catalyst Cost to 5 lapis
+- Rebound G to a different key to prevent accidental quitting out of a book when writing
+
+### Removed Mods
+- Xenon (Now Using Embeddium)
+- Enhanced Celestials (Not in line with pack ethos)
+- Crabber’s Delight (Removed based on community poll)
+- Egg Delight (Too many dishes; didn’t get to stay)
+- Ender’s Delight (Overlap with End Delight and not as good)
+- Stronger Farmland
+- Server Tab Info
+- Better Spawner Control
+- Better Third Person
+- Ender Chested
+- Ding
+- Stylish Effects
+- Better Mods Button
+- Starlight (Pointless in 1.20.1)
+- Chat Heads
+- Fast Suite
+- Fast Furnace
+- Fast Workbench
+- Revamped Wolf
+- SmoothBoot Reloaded
+- NamePain
+- Global Packs (Now Using Paxi)
+- Bad Optimizations
+- Jade Addons
+- Fire Arrows Ignite Fire
+- DarkHeads (Server Sided now)
+- Async Locator
+- AttributeFix
+- Golems are friends not fodder
+- Spyglass Improvements
+
+### Datapacks
+- Removed Repurposed Structures Jungle
+- Removed Repurposed Structures Nether Fortress 
+- Removed Repurposed Better Strongholds
+
+### Resource Packs
+- Added Moonstruck’s Selector [Rebirth]
+- Added Moonstruck’s Selector [Revival]
+- Added Moonstruck’s Selector [Renewal]
