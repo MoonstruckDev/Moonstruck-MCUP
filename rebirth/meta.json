@@ -4,11 +4,11 @@
   "versions": [
     {
         "id": "4.0.0",
-        "releasedAt": 1714595228,
+        "releasedAt": 1714645579,
 	"updateType": "major",
         "promotions": {
             "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/5282976"
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/52829768"
             }
         }
     },
