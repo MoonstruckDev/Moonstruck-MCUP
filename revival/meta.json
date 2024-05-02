@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "3.3.2",
+        "releasedAt": 1714595228,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-revival/files/5283008"
+            }
+        }
+    }
+ 
+  ]
+}
