@@ -4,7 +4,7 @@
   "versions": [
     {
         "id": "4.0.0",
-        "releasedAt": 1714645579,
+        "releasedAt": 1714645579000,
 	"updateType": "major",
         "promotions": {
             "downloads": {
@@ -14,7 +14,7 @@
     },
     {
         "id": "3.3.2",
-        "releasedAt": 1714595228,
+        "releasedAt": 1714595228000,
 	"updateType": "minor",
         "promotions": {
             "downloads": {
