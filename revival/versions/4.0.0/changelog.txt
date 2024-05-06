@@ -66,6 +66,7 @@
 - AttributeFix
 - Golems are friends not fodder
 - Spyglass Improvements
+- Removed NERB
 
 ### Datapacks
 - Removed Repurposed Structures Jungle
