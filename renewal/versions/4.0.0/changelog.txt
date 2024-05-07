@@ -16,6 +16,7 @@
 - Guard Villagers
 - Sparse Structures Reforged 
 - Weather Settings *(to combat lightning spawning in day due to longer day)*
+- FallingTree
 
 ### Fixes
 - Fixed Fishing Line not displaying colors when dyed
@@ -67,6 +68,7 @@
 - Golems are friends not fodder
 - Spyglass Improvements
 - Removed NERB
+- Tree Capitator (Replaced)
 
 ### Datapacks
 - Removed Repurposed Structures Jungle
