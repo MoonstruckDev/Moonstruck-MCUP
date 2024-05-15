@@ -28,6 +28,7 @@
 - Aether: Protect Your Moa
 
 ### Fixes
+- Links in discord rich presence not working.
 - Occasional plank crafting from Regions Unexplored not working
 - Fixed Fishing Line not displaying colors when dyed
 - Fixed Wood Signs not stopping water flow
@@ -36,6 +37,7 @@
 - Fixed momentum being kept if the player starts flying/swimming after using the Slime Sling
 - Fixed the player being able to keep momentum and continue bouncing endlessly below 1.5 blocks of fall distance by holding the jump key (config available to re-enable)
 - Lectern not creating a new page when turning to an empty page
+- Scroll bars showing up on tips
 
 ### Updates
 
@@ -45,6 +47,7 @@
 - Reduced Catalyst Cost to 5 lapis
 - Made max enchanting power to 30 instead of 15.
 - Unbound G to a different key to prevent accidental quitting out of a book when writing
+- New Splash Texts & Tips
 - Disabled VersionCheck in fml
 - Disabled Majrusz version check
 
