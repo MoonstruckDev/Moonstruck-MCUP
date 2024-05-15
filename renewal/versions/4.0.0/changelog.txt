@@ -4,6 +4,12 @@
 
 **Breaking Update**
 
+### Resource Packs & Visual
+- New FancyMenu redesigns! (Special thanks to Efraim!)
+- Added Moonstruck’s Selector [Rebirth]
+- Added Moonstruck’s Selector [Revival]
+- Added Moonstruck’s Selector [Renewal]
+
 ### Added Mods
 - Armor Stands
 - Showcase Item
@@ -18,12 +24,13 @@
 - Sparse Structures Reforged 
 - Weather Settings *(to combat lightning spawning in day due to longer day)*
 - FallingTree
+- Sawmill
+- Aether: Protect Your Moa
 
 ### Fixes
 - Occasional plank crafting from Regions Unexplored not working
 - Fixed Fishing Line not displaying colors when dyed
 - Fixed Wood Signs not stopping water flow
-- Attempt Fix Missing Plank Recipes *(NERB Removal & Update Mods)*
 - Fixed Aether Regenerated not being added by default
 - Fixed Slime Sling with Dolphins Grace effect
 - Fixed momentum being kept if the player starts flying/swimming after using the Slime Sling
@@ -31,7 +38,7 @@
 - Lectern not creating a new page when turning to an empty page
 
 ### Updates
-- New FancyMenu redesigns! (Special thanks to Efraim!)
+
 - Changed BetterF3 to hide some values by default
 - Disabled Potion effect in Debug menu to prevent overlap
 - Brought back enchanting table language
@@ -60,7 +67,6 @@
 - Fast Suite
 - Fast Furnace
 - Fast Workbench
-- Revamped Wolf
 - SmoothBoot Reloaded
 - NamePain
 - Global Packs *(Now Using Paxi)*
@@ -74,17 +80,12 @@
 - Spyglass Improvements
 - Removed NERB
 - Tree Capitator (Replaced)
-- Builders Additions (Removed due to possible bug cause)
 
 ### Datapacks
 - Removed Repurposed Structures Jungle
 - Removed Repurposed Structures Nether Fortress 
 - Removed Repurposed Better Strongholds
 
-### Resource Packs
-- Added Moonstruck’s Selector [Rebirth]
-- Added Moonstruck’s Selector [Revival]
-- Added Moonstruck’s Selector [Renewal]
 
 ### Known Issues
 - After you use slime sling sprinting is faster than usual. *(Fixed in newer version of mod but no longer available on 1.20.1)*
