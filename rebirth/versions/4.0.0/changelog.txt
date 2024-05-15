@@ -20,6 +20,7 @@
 - FallingTree
 
 ### Fixes
+- Occasional plank crafting from Regions Unexplored not working
 - Fixed Fishing Line not displaying colors when dyed
 - Fixed Wood Signs not stopping water flow
 - Attempt Fix Missing Plank Recipes *(NERB Removal & Update Mods)*
@@ -87,4 +88,3 @@
 
 ### Known Issues
 - After you use slime sling sprinting is faster than usual. *(Fixed in newer version of mod but no longer available on 1.20.1)*
-- Occasional plank crafting from Regions Unexplored not working, restart to fix.

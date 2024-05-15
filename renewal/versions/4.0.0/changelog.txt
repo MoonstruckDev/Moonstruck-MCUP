@@ -9,19 +9,21 @@
 - Showcase Item
 - Bridging Mod
 - Modpack Update Checker
+- Critters & Companions
 - Freecam
 - Embeddium
 - Embeddium++
-- TexTrue’s Embeddium Options
 - Guard Villagers
+- Ok Zoomer Forge
 - Sparse Structures Reforged 
 - Weather Settings *(to combat lightning spawning in day due to longer day)*
 - FallingTree
 
 ### Fixes
+- Occasional plank crafting from Regions Unexplored not working
 - Fixed Fishing Line not displaying colors when dyed
 - Fixed Wood Signs not stopping water flow
-- Fixed Missing Plank recipes (fixed in last version and confirmed to work)
+- Attempt Fix Missing Plank Recipes *(NERB Removal & Update Mods)*
 - Fixed Aether Regenerated not being added by default
 - Fixed Slime Sling with Dolphins Grace effect
 - Fixed momentum being kept if the player starts flying/swimming after using the Slime Sling
@@ -34,7 +36,10 @@
 - Disabled Potion effect in Debug menu to prevent overlap
 - Brought back enchanting table language
 - Reduced Catalyst Cost to 5 lapis
-- Rebound G to a different key to prevent accidental quitting out of a book when writing
+- Made max enchanting power to 30 instead of 15.
+- Unbound G to a different key to prevent accidental quitting out of a book when writing
+- Disabled VersionCheck in fml
+- Disabled Majrusz version check
 
 ### Removed Mods
 - Xenon *(Now Using Embeddium)*
@@ -69,6 +74,7 @@
 - Spyglass Improvements
 - Removed NERB
 - Tree Capitator (Replaced)
+- Builders Additions (Removed due to possible bug cause)
 
 ### Datapacks
 - Removed Repurposed Structures Jungle
@@ -79,3 +85,6 @@
 - Added Moonstruck’s Selector [Rebirth]
 - Added Moonstruck’s Selector [Revival]
 - Added Moonstruck’s Selector [Renewal]
+
+### Known Issues
+- After you use slime sling sprinting is faster than usual. *(Fixed in newer version of mod but no longer available on 1.20.1)*
