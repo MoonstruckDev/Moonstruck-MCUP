@@ -84,11 +84,6 @@
 - Removed NERB
 - Tree Capitator (Replaced)
 
-### Datapacks
-- Removed Repurposed Structures Jungle
-- Removed Repurposed Structures Nether Fortress 
-- Removed Repurposed Better Strongholds
-
 
 ### Known Issues
 - After you use slime sling sprinting is faster than usual. *(Fixed in newer version of mod but no longer available on 1.20.1)*
