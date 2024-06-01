@@ -15,3 +15,4 @@
 
 ### Known Issues
 - After you use slime sling sprinting is faster than usual. *(Fixed in newer version of mod but no longer available on 1.20.1)*
+- Duplicate tip when disconecting from multiplayer server
