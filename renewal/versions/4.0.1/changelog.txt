@@ -1,0 +1,17 @@
+## 4.0.1 Hotfix
+
+### Fixes
+- Recipes auto crafting in the recipe book.
+- Public servers button overlapping in Renewal & Revival
+- Enchanted Item Glint rendering issue
+
+### Changes
+- Ambient sound turned down to 0.05% volume instead of 1.0, it's meant to be ambient sound not ambient rammstein concert.
+
+### Updated Mods
+- ImmediatelyFast
+- AdvancedChimneys
+
+
+### Known Issues
+- After you use slime sling sprinting is faster than usual. *(Fixed in newer version of mod but no longer available on 1.20.1)*

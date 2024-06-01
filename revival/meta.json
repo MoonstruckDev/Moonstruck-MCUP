@@ -8,7 +8,7 @@
 	"updateType": "minor",
         "promotions": {
             "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/5282976"
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-revival/files/5283008"
             }
         }
     },
@@ -18,7 +18,17 @@
 	"updateType": "major",
         "promotions": {
             "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/52829768"
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-revival/files/5389586"
+            }
+        }
+    },
+    {
+        "id": "4.0.1",
+        "releasedAt": 1717282753000,
+	"updateType": "minor",
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-revival/files/5389586"
             }
         }
     }
