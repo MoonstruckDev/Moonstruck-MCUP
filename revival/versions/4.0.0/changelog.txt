@@ -13,6 +13,7 @@
 ### Added Mods
 - Armor Stands
 - Showcase Item
+- Nullscaped
 - Bridging Mod
 - Modpack Update Checker
 - Critters & Companions
