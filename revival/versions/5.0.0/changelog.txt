@@ -1,0 +1,63 @@
+## 5.0.0 Refresh & Revitalize
+
+### Fixes
+- Certain Vanilla Discs not making any sounds 
+- Waypoints not showing
+- Vanilla Mobs not showing on minimap icons
+- Made Doors Un-waterloggable
+
+### Added
+- Farmer's Structures
+- TerraBlenderFix
+- Mr Crayfish Furniture (Refurbished)
+
+### Removed Mods
+- Handcrafted
+- Corn Delight
+- Fruits Delight
+- Ocean's Delight
+- Mr Crayfish Furniture (Legacy)
+- Camp Chair
+- Why Stacks Of 16?
+- Stackable Potions
+- Let Sleeping Dogs Lie
+- Chickens Shed
+- Twigs
+- Moobloom Friends & Foes (This was in the mod by default)
+
+### Updated Mods
+- Update to forge 47.3.22
+
+- Advancement Plaques
+- Nether's Exoticism
+- Genshin Instruments
+- Wood Good
+- Critters and Companions
+- Moog's Nether Structures
+- Areas
+- Geophillic
+- Only Excavators
+- Advanced Chimneys
+- Drink Beer Refill
+- Chipped
+- RevampedWolf
+- SimplySwords
+- Jade
+- NetherVinery
+- The Aether
+- Supplementaries Squared
+- Sky Villages
+- Farmers Delight
+- End Remastered
+- Aquaculture 2
+- Friends & Foes
+- Meadow
+- End's Delight
+- Dramatic Doors
+- Advanced Netherite
+- Naturalist
+& many many more.
+
+### Known issues: 
+
+No known issues at this time.
