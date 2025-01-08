@@ -60,4 +60,4 @@
 
 ### Known issues: 
 
-No known issues at this time.
+Wrong Rich Presence showing on discord.
