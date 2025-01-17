@@ -1,23 +1,100 @@
-# A New Life 🌱🐸
+# A New Life Update 🌱🐸
 
-# Removed
+## 🚫 Removed
 
-## Added
+The following mods have been removed from the pack:
 
+- **Sky Villages**
+- **[Let's Do] Meadow**
+- **Weather Settings**
+- **Fabulous Flowers**
+- **Nether's Delight**
+- **River Redux**
+- **Connected Glass**
+- **All The Trims**
+- **Swampier Swamps**
+- **Hourglass**
+- **Nether's Exoticism**
+- **Regions Unexplored**
+- **Cluttered**
+- **Drink Beer Refill**
+- **Blue Skies**
+- **Upcycle**
+- **Areas**
+- **Beautify!**
+- **Plushie Mod**
+- **Flower Seeds 2 (Biomes O' Plenty)**
+- **Flower Seeds 2**
+- **Flower Seeds 2 (Fabulous Flowers)**
+- **Storage Labels**
+- **Yung's Better Desert Temples (Forge)**
+- **Despawn Tweaker**
+- **Lithostiched**
+- **LibIPN**
+- **iChunUtil**
+- **Flib**
 
-## Changes / Fixes
+---
 
-Made Spice Of Life a bit more overpowered whilst finding it's identity. it now gives +10 hearts and is more leaning on eating the same foods before applying decay.
+## ➕ Added
 
-Made Enchanting table show 1 enchant as a little hint... 
+New mods added to enhance your gameplay experience:
 
-Fixed Open To Lan button texture.
-Repositioned dark mode button.
-Changed Structure Sparsity to 1.5 was 2.
+- **All The Leaks**
+- **Boatload**
+- **Disenchanting Table**
+- **Loot Integrations: Dungeons & Taverns**
+- **Loot Integrations: It Takes A Pillage**
+- **Loot Integrations: Moog**
+- **Loot Integrations: Structory**
+- **Moonlight**
+- **Moog's Soaring Structures**
+- **Ribbits**
+- **Shoppy**
+- **Formations**
+- **Waystones**
+- **Yung's Cave Biomes**
+- **Liberty Villagers**
+- **Long NBT Killer**
+- **Aether Villages**
+- **Aether Lost Content Addon**
+- **My Nether's Delight**
+- **The Aether: Redux**
+- **Void Totem**
+- **XaeroPlus**
 
-Removed InventoryHUD keybind by default
-Removed Bridging Mod keybind by default
+---
 
-Disabled Naturalist Dragonfly spawns
+## 🔧 Changes / Fixes
 
-### Updated
+The following improvements and fixes have been made:
+
+- **Spice Of Life** has been rebalanced to be more lenient, offering +10 hearts, and it now applies decay more gradually, making it easier to maintain food diversity.
+- The **Enchanting Table** now shows a hint of 1 enchantment as a preview.
+- Fixed **Open To LAN** button texture.
+- Repositioned the **Dark Mode** button for better accessibility.
+- Increased **Structure Sparsity** from 2 to 1.5 to improve world generation.
+- Removed **InventoryHUD** and **Bridging Mod** keybinds by default for cleaner gameplay.
+- Disabled **Naturalist Dragonfly** spawns, as **Critters & Companions** now covers this functionality.
+
+---
+
+## 📥 Updated
+
+The following mods have received updates to improve performance and compatibility:
+
+- **Smoothchunk**
+- **Structurecredits**
+- **Trashslot-forge**
+- **Everycomp**
+- **Fusion**
+- **Geophilic**
+- **InsaneLib**
+- **JEI**
+- **Kleeslabs-forge**
+- **Letsdo-vinery-forge**
+- **CraftPresence**
+- **CraftTweaker-forge**
+- **Delightful**
+- **Balm-forge**
+
