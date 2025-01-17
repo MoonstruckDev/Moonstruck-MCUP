@@ -1,0 +1,23 @@
+# A New Life 🌱🐸
+
+# Removed
+
+## Added
+
+
+## Changes / Fixes
+
+Made Spice Of Life a bit more overpowered whilst finding it's identity. it now gives +10 hearts and is more leaning on eating the same foods before applying decay.
+
+Made Enchanting table show 1 enchant as a little hint... 
+
+Fixed Open To Lan button texture.
+Repositioned dark mode button.
+Changed Structure Sparsity to 1.5 was 2.
+
+Removed InventoryHUD keybind by default
+Removed Bridging Mod keybind by default
+
+Disabled Naturalist Dragonfly spawns
+
+### Updated
