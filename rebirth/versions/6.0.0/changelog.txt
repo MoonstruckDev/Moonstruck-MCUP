@@ -62,6 +62,7 @@ New mods added to enhance your gameplay experience:
 - **The Aether: Redux**
 - **Void Totem**
 - **XaeroPlus**
+- **Configured**
 
 ---
 
