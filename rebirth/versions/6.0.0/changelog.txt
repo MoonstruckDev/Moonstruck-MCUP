@@ -35,6 +35,9 @@ The following mods have been removed from the pack:
 - **Flib**
 - **CraftTweaker**
 - **InControl**
+- **Structure Credits**
+- **More Axolotl Variants** *was spitting errors constantly*
+- **Sky Villages: Compat Data Pack**
 
 ---
 
@@ -68,6 +71,7 @@ New mods added to enhance your gameplay experience:
 - **No Report Button**
 - **KubeJS**
 - **FeatureRecycler**
+- **What is this structure? (wits)**
 
 ---
 
@@ -88,6 +92,13 @@ The following improvements and fixes have been made:
 - Disabled WATUT when playing Genshin Instruments
 - Disabled Blur when playing Genshin Instruments
 - Changed RichPresence details & name.
+- Increased Minimap zoom to 4x
+- Changed Entity radar depth fade to 15 was auto
+- Changed Xaero's arrow colour to yellow for more visibility
+- Made animals display names when pressing tab
+- disabled render over radar when holding tab.
+- Bound Food Book to F10
+- Removed Areas entry from guide book.
 
 ---
 
