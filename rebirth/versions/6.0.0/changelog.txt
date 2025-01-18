@@ -4,40 +4,34 @@
 
 The following mods have been removed from the pack:
 
-- **Sky Villages**
-- **[Let's Do] Meadow**
-- **Weather Settings**
-- **Fabulous Flowers**
-- **Nether's Delight**
-- **River Redux**
-- **Connected Glass**
 - **All The Trims**
-- **Swampier Swamps**
-- **Hourglass**
-- **Nether's Exoticism**
-- **Regions Unexplored**
-- **Cluttered**
-- **Drink Beer Refill**
-- **Blue Skies**
-- **Upcycle**
 - **Areas**
 - **Beautify!**
-- **Plushie Mod**
-- **Flower Seeds 2 (Biomes O' Plenty)**
+- **Blue Skies**
+- **Cluttered**
+- **Connected Glass**
+- **CraftTweaker**
+- **CraftTweaker**
+- **Despawn Tweaker**
+- **Drink Beer Refill**
 - **Flower Seeds 2**
+- **Flower Seeds 2 (Biomes O' Plenty)**
 - **Flower Seeds 2 (Fabulous Flowers)**
+- **Hourglass**
+- **iChunUtil**
+- **InControl**
+- **LibIPN**
+- **Lithostiched**
+- **More Axolotl Variants** *was spitting errors constantly*
+- **Nether's Delight**
+- **Nether's Exoticism**
+- **Plushie Mod**
+- **Regions Unexplored**
+- **Sky Villages**
+- **Sky Villages: Compat Data Pack**
+- **Swampier Swamps**
 - **Storage Labels**
 - **Yung's Better Desert Temples (Forge)**
-- **Despawn Tweaker**
-- **Lithostiched**
-- **LibIPN**
-- **iChunUtil**
-- **Flib**
-- **CraftTweaker**
-- **InControl**
-- **Structure Credits**
-- **More Axolotl Variants** *was spitting errors constantly*
-- **Sky Villages: Compat Data Pack**
 
 ---
 
@@ -45,33 +39,31 @@ The following mods have been removed from the pack:
 
 New mods added to enhance your gameplay experience:
 
+- **Aether Lost Content Addon**
+- **Aether Villages**
 - **All The Leaks**
 - **Boatload**
+- **Configured**
 - **Disenchanting Table**
+- **FeatureRecycler**
+- **Formations**
+- **Liberty Villagers**
 - **Loot Integrations: Dungeons & Taverns**
 - **Loot Integrations: It Takes A Pillage**
 - **Loot Integrations: Moog**
 - **Loot Integrations: Structory**
+- **Long NBT Killer**
 - **Moonlight**
 - **Moog's Soaring Structures**
+- **My Nether's Delight**
 - **Ribbits**
 - **Shoppy**
-- **Formations**
-- **Waystones**
-- **Yung's Cave Biomes**
-- **Liberty Villagers**
-- **Long NBT Killer**
-- **Aether Villages**
-- **Aether Lost Content Addon**
-- **My Nether's Delight**
 - **The Aether: Redux**
 - **Void Totem**
-- **XaeroPlus**
-- **Configured**
-- **No Report Button**
-- **KubeJS**
-- **FeatureRecycler**
+- **Waystones**
 - **What is this structure? (wits)**
+- **XaeroPlus**
+- **Yung's Cave Biomes**
 
 ---
 
@@ -96,7 +88,7 @@ The following improvements and fixes have been made:
 - Changed Entity radar depth fade to 15 was auto
 - Changed Xaero's arrow colour to yellow for more visibility
 - Made animals display names when pressing tab
-- disabled render over radar when holding tab.
+- Disabled render over radar when holding tab.
 - Bound Food Book to F10
 - Removed Areas entry from guide book.
 
@@ -106,9 +98,10 @@ The following improvements and fixes have been made:
 
 The following mods have received updates to improve performance and compatibility:
 
-- **Smoothchunk**
-- **Structurecredits**
-- **Trashslot-forge**
+- **Balm-forge**
+- **CraftPresence**
+- **CraftTweaker-forge**
+- **Delightful**
 - **Everycomp**
 - **Fusion**
 - **Geophilic**
@@ -116,8 +109,6 @@ The following mods have received updates to improve performance and compatibilit
 - **JEI**
 - **Kleeslabs-forge**
 - **Letsdo-vinery-forge**
-- **CraftPresence**
-- **CraftTweaker-forge**
-- **Delightful**
-- **Balm-forge**
-
+- **Smoothchunk**
+- **Structurecredits**
+- **Trashslot-forge**
