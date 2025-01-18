@@ -91,6 +91,8 @@ The following improvements and fixes have been made:
 - Disabled render over radar when holding tab.
 - Bound Food Book to F10
 - Removed Areas entry from guide book.
+- Cleaned up resource pack override entries
+- Cleaned up config files to reduce modpack size by a microscopic amount.
 
 ---
 
