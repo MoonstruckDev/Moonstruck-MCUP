@@ -44,11 +44,11 @@
     },
     {
         "id": "6.0.0",
-        "releasedAt": 1736299589482,
+        "releasedAt": 1737219405609,
 	"updateType": "major",
         "promotions": {
             "downloads": {
-                "curseforge": "PLACEHOLDER"
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/6100060"
             }
         }
     }
