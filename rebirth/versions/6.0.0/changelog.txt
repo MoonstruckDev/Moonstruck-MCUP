@@ -1,5 +1,7 @@
 # A New Life Update 🌱🐸
 
+This update is a hard fork from the main pack. this removes many mods that will break your world such as Regions Unexplored & Blue Skies. I recommend starting a new world before updating or even making a new profile for this version.
+
 ## 🚫 Removed
 
 The following mods have been removed from the pack:
