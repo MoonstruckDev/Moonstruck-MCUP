@@ -93,6 +93,7 @@ The following improvements and fixes have been made:
 - Removed Areas entry from guide book.
 - Cleaned up resource pack override entries
 - Cleaned up config files to reduce modpack size by a microscopic amount.
+- Updated Tips.txt
 
 ---
 
