@@ -43,7 +43,6 @@ New mods added to enhance your gameplay experience:
 - **Aether Villages**
 - **All The Leaks**
 - **Boatload**
-- **Configured**
 - **Disenchanting Table**
 - **FeatureRecycler**
 - **Formations**
