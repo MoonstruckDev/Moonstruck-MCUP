@@ -76,7 +76,6 @@ The following improvements and fixes have been made:
 - The **Enchanting Table** now shows a hint of 1 enchantment as a preview.
 - Fixed **Open To LAN** button texture.
 - Repositioned the **Dark Mode** button for better accessibility.
-- Increased **Structure Sparsity** from 2 to 1.5 to improve world generation.
 - Removed **InventoryHUD** and **Bridging Mod** keybinds by default for cleaner gameplay.
 - Disabled **Naturalist Dragonfly** spawns, as **Critters & Companions** now covers this functionality.
 - Migrated Scripts to KubeJS, god I love JavaScript.
@@ -95,6 +94,7 @@ The following improvements and fixes have been made:
 - Cleaned up resource pack override entries
 - Cleaned up config files to reduce modpack size by a microscopic amount.
 - Updated Tips.txt
+- Fixed FTB Quests
 
 ---
 
