@@ -1,6 +1,8 @@
-# 6.0.1 Bug Fix 🌱🐸
+# 6.0.1 Bug Fix 🪲
 
+## Added
 
+- You Shall Not Spawn
 
 ## 🔧 Changes / Fixes
 
@@ -9,9 +11,14 @@
 - disabled phantoms in overworld
 - disabled milk doesn't remove bad omen
 - Spice Of Life fixed console spam. (added values to un-identified foods)
+- reverted Xaero's show players change (doesn't fully work without Claims anyways)
+- Removed unused GFX packs.
 
 ---
 
 ## 📥 Updated
 
 
+## Known Bugs
+https://github.com/AlexModGuy/DomesticationInnovation/issues/241
+https://github.com/AlexModGuy/DomesticationInnovation/issues/242
