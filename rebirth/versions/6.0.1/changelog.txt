@@ -13,6 +13,7 @@
 - Spice Of Life fixed console spam. (added values to un-identified foods)
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
+- set require_hoe to false in RightClickHarvest
 
 ---
 
