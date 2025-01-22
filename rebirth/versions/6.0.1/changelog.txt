@@ -18,6 +18,11 @@
 
 ## 📥 Updated
 
+- Vinery
+- Dramatic Doors
+- Friends & Foes
+
+
 
 ## Known Bugs
 https://github.com/AlexModGuy/DomesticationInnovation/issues/241
