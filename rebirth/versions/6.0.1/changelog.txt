@@ -14,6 +14,7 @@
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
 - set require_hoe to false in RightClickHarvest
+- enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
 
 ---
 
