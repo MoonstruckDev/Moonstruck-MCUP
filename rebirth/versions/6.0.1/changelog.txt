@@ -3,6 +3,8 @@
 ## Added
 
 - You Shall Not Spawn
+- Wooled Boots
+- Rubidium Options
 
 ## 🪲 Fixes
 
@@ -33,3 +35,5 @@
 ## Known Bugs
 https://github.com/AlexModGuy/DomesticationInnovation/issues/241
 https://github.com/AlexModGuy/DomesticationInnovation/issues/242
+
+Weird "white line" graphical glitches, could be due to sinytra connector with my use case in the modpack moving to test
