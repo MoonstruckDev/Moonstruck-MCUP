@@ -15,6 +15,7 @@
 - Removed unused GFX packs.
 - set require_hoe to false in RightClickHarvest
 - enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
+- Fixed Slay Ender dragon quest popping when it shouldn't
 
 ---
 
