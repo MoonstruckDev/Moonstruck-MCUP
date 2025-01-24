@@ -4,18 +4,21 @@
 
 - You Shall Not Spawn
 
-## 🔧 Changes / Fixes
+## 🪲 Fixes
+
+- Fixed Slay Ender dragon quest popping when it shouldn't
+- Spice Of Life fixed console spam. (added values to un-identified foods)
+
+## 🔧 Changes
 
 - Set max_enchanting_power to 15 in easy-magic (this is the amount of bookshelves required to max level enchant.) was 30. 
 - Removed easyanvils & easymagic from default configs, no longer needed in there. 
 - disabled phantoms in overworld
 - disabled milk doesn't remove bad omen
-- Spice Of Life fixed console spam. (added values to un-identified foods)
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
 - set require_hoe to false in RightClickHarvest
 - enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
-- Fixed Slay Ender dragon quest popping when it shouldn't
 
 ---
 
