@@ -20,6 +20,8 @@
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
 - enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
+- Reduced duck spawn weight
+- Made Dragonfly spawn in swamp-esque biomes and at dusk & night only.
 
 ---
 
