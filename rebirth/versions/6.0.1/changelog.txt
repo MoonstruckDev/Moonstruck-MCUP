@@ -5,6 +5,7 @@
 - Wooled Boots ( Will probably add in 6.1.0 to keep this bug focused )
 - Xenon
 - In Control
+- Neruina (This will save world from ticking entity)
 
 ## 🪲 Fixes
 
@@ -12,6 +13,7 @@
 - Level 30 enchants not obtainable.
 - Milk not removing bad omen.
 - Fixed right click harvest not working
+- Bricked world when fighting Elder Guardian.
 
 ## 🔧 Changes
 
@@ -30,6 +32,7 @@
 - Vinery
 - Dramatic Doors
 - Friends & Foes
+- Progressive Bosses
 - Forge 47.3.25
 
 ## 💀 Removed
