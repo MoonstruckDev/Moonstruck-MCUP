@@ -2,17 +2,16 @@
 
 ## Added
 
-- You Shall Not Spawn
 - Wooled Boots ( Will probably add in 6.1.0 to keep this bug focused )
-- Rubidium Options
+- Xenon
+- In Control
 
 ## 🪲 Fixes
 
 - Fixed Slay Ender dragon quest popping when it shouldn't
-- Spice Of Life fixed console spam. (added values to un-identified foods)
 - Level 30 enchants not obtainable.
 - Milk not removing bad omen.
-
+- Fixed right click harvest not working
 
 ## 🔧 Changes
 
@@ -20,7 +19,6 @@
 - disabled phantoms in overworld
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
-- set require_hoe to false in RightClickHarvest
 - enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
 
 ---
@@ -30,7 +28,14 @@
 - Vinery
 - Dramatic Doors
 - Friends & Foes
+- Forge 47.3.25
 
+## 💀 Removed
+
+- Embeddium
+- Sodium Options
+- Sodium Options Compat
+- Sodium Dynamic Lights
 
 
 ## Known Bugs
