@@ -2,7 +2,6 @@
 
 ## Added
 
-- Wooled Boots ( Will probably add in 6.1.0 to keep this bug focused )
 - Xenon
 - In Control
 - Neruina (This will save world from ticking entity)
