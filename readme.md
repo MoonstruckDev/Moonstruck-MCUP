@@ -16,30 +16,31 @@ This guide explains how to transfer Xaero's minimap and world map data from one 
 
 ### 1. Locate the Xaero Data Folder
 
-1. Open the file directory of the **old modpack installation**. (you can right click in curseforge open folder on the instance)
-2. Navigate to the `Moonstruck's Rebirth - A Better Cozy Experience` folder or the directory where Xaero's data is stored.
+1. Open the file directory of the **old modpack installation**. (You can right-click in CurseForge to open the folder for the instance.)
+2. Navigate to the Moonstruck's Rebirth - A Better Cozy Experience folder or the directory where Xaero's data is stored.
 
+![Xaero Data Folder Location](https://imgur.com/a/1aRXk1n)
 
 ### 2. Copy the Xaero Folder
 
-1. Select the entire `xaero` folder.
-2. Copy the folder to your clipboard (e.g., right-click > Copy or `Ctrl + C`).
+1. Select the entire Xaero folder.
+2. Copy the folder to your clipboard (e.g., right-click > Copy or Ctrl + C).
 
 ### 3. Replace the Xaero Folder in the New Installation
 
 1. Open the file directory of the **new Minecraft installation**.
-2. Check if there is an existing `xaero` folder in the new installation:
+2. Check if there is an existing Xaero folder in the new installation:
    - If it exists, **delete it** to avoid conflicts.
-   - Paste the copied folder from the old installation into this location (e.g., right-click > Paste or `Ctrl + V`).
+   - Paste the copied folder from the old installation into this location (e.g., right-click > Paste or Ctrl + V).
 
 ### 4. Adjust for Server IP Changes (if necessary)
 
 - If the **server IP address** has changed between installations, the map data may not appear in the new instance. To resolve this:
-  1. Open the `xaero` folder.
-  2. Locate the subfolder named after the old server's IP address. (both in minimap and worldmap)
+  1. Open the Xaero folder.
+  2. Locate the subfolder named after the old server's IP address. (Both in minimap and world map)
   3. Rename the folder to match the new server's IP address.
   
-  example: Multiplayer_server1.com will become Multiplayer_server2.org
+  Example: `Multiplayer_server1.com` will become `Multiplayer_server2.org`.
 
 ### 5. Verify the Transfer
 
@@ -53,4 +54,3 @@ This guide explains how to transfer Xaero's minimap and world map data from one 
 
 - Always back up your files before making changes to prevent accidental data loss.
 - Screenshots can help verify folder structures and file paths for troubleshooting.
-
