@@ -19,7 +19,7 @@ This guide explains how to transfer Xaero's minimap and world map data from one 
 1. Open the file directory of the **old modpack installation**. (You can right-click in CurseForge to open the folder for the instance.)
 2. Navigate to the Moonstruck's Rebirth - A Better Cozy Experience folder or the directory where Xaero's data is stored.
 
-![Xaero Data Folder Location](https://imgur.com/a/1aRXk1n)
+![Xaero Data Folder Location](https://i.imgur.com/dCY7OF1.png)
 
 ### 2. Copy the Xaero Folder
 
