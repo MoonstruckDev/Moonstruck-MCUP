@@ -16,13 +16,15 @@
 
 ## 🔧 Changes
 
-- Removed easyanvils & easymagic from default configs, no longer needed in there. 
+- Made potions stack to 16 (Mmm JavaScript)
 - disabled phantoms in overworld
+- Reduced duck spawn weight
+- Made Dragonfly spawn in swamp-esque biomes and at dusk & night only.
+- Removed easyanvils & easymagic from default configs, no longer needed in there. 
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
 - enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
-- Reduced duck spawn weight
-- Made Dragonfly spawn in swamp-esque biomes and at dusk & night only.
+
 
 ---
 
@@ -46,4 +48,6 @@
 https://github.com/AlexModGuy/DomesticationInnovation/issues/241
 https://github.com/AlexModGuy/DomesticationInnovation/issues/242
 
-Weird "white line" graphical glitches, could be due to sinytra connector with my use case in the modpack moving to test
+Should be fixed but weird graphical issues: 
+- Lava & Flowing water sometimes not being shaded
+- White "tears" sometimes appearing on screen.
