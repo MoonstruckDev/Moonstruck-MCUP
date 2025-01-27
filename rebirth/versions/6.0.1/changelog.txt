@@ -24,7 +24,7 @@
 - reverted Xaero's show players change (doesn't fully work without Claims anyways)
 - Removed unused GFX packs.
 - enabled instantDeletion in trashslot.toml to prevent it being used as itemslot
-
+- added structureCacheV1 to export
 
 ---
 
