@@ -54,8 +54,3 @@ This guide explains how to transfer Xaero's minimap and world map data from one 
 - Always back up your files before making changes to prevent accidental data loss.
 - Screenshots can help verify folder structures and file paths for troubleshooting.
 
-*(Add screenshots here to visually guide users through the process.)*
-
----
-
-If you encounter any issues or have further questions, feel free to open an issue or consult the Xaero's Minimap documentation for additional support.
