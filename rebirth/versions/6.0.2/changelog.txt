@@ -1,0 +1,12 @@
+# 6.0.2 Hotfix 🔥
+
+## Removed
+- Nullscaped
+
+## Fixed
+- Biomes O Plenty not generating in the end
+
+## Known Bugs
+https://github.com/AlexModGuy/DomesticationInnovation/issues/241
+https://github.com/AlexModGuy/DomesticationInnovation/issues/242
+
