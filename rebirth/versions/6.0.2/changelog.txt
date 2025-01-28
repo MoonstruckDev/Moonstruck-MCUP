@@ -1,12 +1,11 @@
 # 6.0.2 Hotfix 🔥
 
-## Removed
-- Nullscaped
+## Added
+- BetterEnd
+- BcLib
 
-## Fixed
-- Biomes O Plenty not generating in the end
 
 ## Known Bugs
 https://github.com/AlexModGuy/DomesticationInnovation/issues/241
 https://github.com/AlexModGuy/DomesticationInnovation/issues/242
-
+Biomes O' Plenty not generating in the end. doesn't work with nullscaped.
