@@ -33,6 +33,7 @@
 - Added Custom Waystone names
 - Added Custom Villager names
 - Waystones waypoints get added to new set on Xaero's.
+- Hide Golden Swet balls in resource menu
 
 ---
 
