@@ -16,6 +16,7 @@
 
 ## 🔧 Changes
 
+- All my homies hate exposed cut stairs. "Lightly Weathered Cut Copper Stairs" is now back!
 - Nerfed Spice Of Life
   - Lessened the amount of hearts
   - Decreased the amount of meals decay starts to apply from
