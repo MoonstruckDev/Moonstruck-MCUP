@@ -36,6 +36,8 @@
 - Hide Golden Swet balls in resource menu
 - Updated resourcepackoverrides config to support new GFX pack
 
+- New Custom Icons :) 
+
 ---
 
 ## 🪲 Fixes
