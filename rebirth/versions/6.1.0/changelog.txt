@@ -13,6 +13,10 @@
 - Easy Shulker Boxes
 - Villager Names
 - Villager Comfort
+- Gravestone x Curios API compat
+- Shield Banner Fix
+
+- Moonstruck's GFX Pack
 
 ## 🔧 Changes
 
@@ -37,6 +41,7 @@
 - Spawn rules fix. Phantoms should not spawn in overworld.
 - Fixed clay golems spawning too often by yeeting them.
 - Overwriting Voice Chat data when updating
+- Backpacks, Quivers and more not equipping when unboxing a cold one (gravestone)
 
 
 ## 📥 Updated
@@ -50,6 +55,13 @@
 
 - World Pre Generator (Most power users will add this themselves)
 - Inventory Sorter by CPW
+
+### Resource Packs
+
+- Shield Corrections
+- Moon's Transparent Player Background
+- Crosshair
+- Embellished Stone
 
 
 ## Known Bugs
