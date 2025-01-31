@@ -34,6 +34,7 @@
 - Added Custom Villager names
 - Waystones waypoints get added to new set on Xaero's.
 - Hide Golden Swet balls in resource menu
+- Updated resourcepackoverrides config to support new GFX pack
 
 ---
 
