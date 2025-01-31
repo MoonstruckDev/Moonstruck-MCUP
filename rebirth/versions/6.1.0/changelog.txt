@@ -28,7 +28,7 @@
 - Added some tips and splash texts
 - Added Custom Waystone names
 - Added Custom Villager names
-
+- Waystones waypoints get added to new set on Xaero's.
 
 ---
 
@@ -36,6 +36,7 @@
 
 - Spawn rules fix. Phantoms should not spawn in overworld.
 - Fixed clay golems spawning too often by yeeting them.
+- Overwriting Voice Chat data when updating
 
 
 ## 📥 Updated
