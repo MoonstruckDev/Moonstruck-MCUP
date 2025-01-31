@@ -22,10 +22,13 @@
   - Decreased the amount of meals decay starts to apply from
 
 - Disabled Clay Golems (No more army of the ten thousand in MC)
+- Removed Trashslot Keybind
 - Removed some splash texts
 - Removed some tips
 - Added some tips and splash texts
-- Removed Trashslot Keybind
+- Added Custom Waystone names
+- Added Custom Villager names
+
 
 ---
 
