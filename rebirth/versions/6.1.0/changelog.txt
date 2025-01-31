@@ -9,7 +9,7 @@
 - More Delight
 
 - Wooled Boots
-- Inventory Sorter (Configurable)
+- Inventory Sorter (Configurable) fork of CPW's
 - Easy Shulker Boxes
 - Villager Names
 - Villager Comfort
@@ -21,6 +21,9 @@
   - Decreased the amount of meals decay starts to apply from
 
 - Disabled Clay Golems (No more army of the ten thousand in MC)
+- Removed some splash texts
+- Removed some tips
+- Added some tips and splash texts
 
 ---
 
@@ -40,7 +43,7 @@
 ## 💀 Removed
 
 - World Pre Generator (Most power users will add this themselves)
-- Inventory Sorter 
+- Inventory Sorter by CPW
 
 
 ## Known Bugs
