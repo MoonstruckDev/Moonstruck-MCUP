@@ -15,6 +15,7 @@
 - Villager Comfort
 - Gravestone x Curios API compat
 - Shield Banner Fix
+- Spice Of Life Onion
 
 - TooFast
 
@@ -62,6 +63,7 @@
 
 - World Pre Generator (Most power users will add this themselves)
 - Inventory Sorter by CPW
+- Spice Of Life: Apple Pie
 
 ### Resource Packs
 
