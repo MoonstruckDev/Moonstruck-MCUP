@@ -23,6 +23,8 @@
 - TooFast
 - Log Begone
 
+### Resource Packs
+
 - Moonstruck's GFX Pack
 
 ## 🔧 Changes
@@ -61,7 +63,15 @@
 - Amendments
 - Supplementaries
 - The Aether
+- Deep Aether
+- Every Compat
+- Waystones
+- Controllable
 
+& more
+
+
+- Forge 47.3.27
 
 ## 💀 Removed
 
@@ -69,11 +79,16 @@
 - Inventory Sorter by CPW
 - Spice Of Life: Apple Pie
 - Armor Stands
+- WITS
+- FastPortals
+- Disenchanting Table
+- Max Health Fix
+- Saturn
 
 ### Resource Packs
 
-- Shield Corrections
 - Moon's Transparent Player Background
+- Shield Corrections
 - Crosshair
 - Embellished Stone
 
