@@ -74,7 +74,7 @@
 & more
 
 
-- Forge 47.3.27
+- Forge 47.3.25
 
 ## 💀 Removed
 
