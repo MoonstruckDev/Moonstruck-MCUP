@@ -10,6 +10,7 @@
 - Large Meals
 - Cultural Delight
 - More Delight
+- Auto Chef's Delight
 
 - Wooled Boots
 - Inventory Sorter (Configurable) fork of CPW's
