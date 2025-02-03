@@ -23,6 +23,7 @@
 
 - TooFast
 - Log Begone
+- Better Statistics Screen
 
 ### Resource Packs
 
