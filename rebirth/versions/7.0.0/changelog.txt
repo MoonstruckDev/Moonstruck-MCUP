@@ -68,6 +68,7 @@
 - Backpacks, Quivers and more not equipping when unboxing a cold one (gravestone)
 - Waystones not costing XP
 - Fixed Mindful Darkness applying to hearts
+- Fixed Waypoints showing up in all dimensions.
 
 
 ## 📥 Updated
