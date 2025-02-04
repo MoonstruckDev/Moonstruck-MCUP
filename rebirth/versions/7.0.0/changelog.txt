@@ -25,7 +25,6 @@
 - TooFast
 - Log Begone
 - Recipe Essentials
-- Redirector
 - FastAsyncWorldSave
 - Connectivity
 - Better Statistics Screen
