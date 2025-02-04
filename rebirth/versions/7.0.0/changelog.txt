@@ -55,6 +55,7 @@
 - Changed bookshelf level 30 requirement to 16 was 15. This is so you can make it symmetrical :) 15/2 = 7.5, you can't have .5 of a bookshelf.
 - Level 60 xp tome, was 30
 - Made Backpack recipe use leather instead of rabbit hide
+- Hide Trapped cakes in JEI
 
 ---
 
