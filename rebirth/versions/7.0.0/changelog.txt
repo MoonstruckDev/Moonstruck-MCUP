@@ -88,6 +88,7 @@
 - Max Health Fix
 - Saturn
 - Zombie flesh to leather mod
+- Waddles
 
 ### Resource Packs
 
