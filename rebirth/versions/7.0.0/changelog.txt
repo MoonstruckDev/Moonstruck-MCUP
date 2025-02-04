@@ -58,6 +58,10 @@
 - Hide Trapped cakes in JEI
 - Generated waystones are unbreakable.
 - reduced axolotl & pelican ring spawn rate
+  - No longer spawns in desert pyramids.
+  - no longer spawns in villages.
+  - no longer spawns in simple dungeons.
+  - no longer spawns in woodland mansions.
 
 ---
 
