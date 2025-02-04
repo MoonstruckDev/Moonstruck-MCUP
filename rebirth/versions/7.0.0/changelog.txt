@@ -57,7 +57,7 @@
 - Made Backpack recipe use leather instead of rabbit hide
 - Hide Trapped cakes in JEI
 - Generated waystones are unbreakable.
-
+- reduced axolotl & pelican ring spawn rate
 
 ---
 
