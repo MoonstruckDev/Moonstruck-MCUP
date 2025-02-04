@@ -32,6 +32,7 @@
 ### Resource Packs
 
 - Moonstruck's GFX Pack
+- Beachparty Loot Tweaks
 
 ## 🔧 Changes
 
@@ -57,6 +58,7 @@
 - Hide Trapped cakes in JEI
 - Generated waystones are unbreakable.
 - reduced axolotl & pelican ring spawn rate
+- beachparty loot no longer spaws in certain chests:
   - No longer spawns in desert pyramids.
   - no longer spawns in villages.
   - no longer spawns in simple dungeons.
