@@ -20,9 +20,14 @@
 - Gravestone x Curios API compat
 - Shield Banner Fix
 - Spice Of Life Onion
+- Pro Placer
 
 - TooFast
 - Log Begone
+- Recipe Essentials
+- Redirector
+- FastAsyncWorldSave
+- Connectivity
 - Better Statistics Screen
 
 ### Resource Packs
@@ -63,6 +68,8 @@
 
 ## 📥 Updated
 
+- Farmer's Delight
+- Waystones
 - Amendments
 - Supplementaries
 - The Aether
@@ -89,6 +96,7 @@
 - Saturn
 - Zombie flesh to leather mod
 - Waddles
+- Bridging Mod
 
 ### Resource Packs
 
