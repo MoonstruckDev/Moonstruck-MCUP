@@ -56,6 +56,7 @@
 - Level 60 xp tome, was 30
 - Made Backpack recipe use leather instead of rabbit hide
 - Hide Trapped cakes in JEI
+- Generated waystones are unbreakable.
 
 
 ---
@@ -102,6 +103,7 @@
 - Zombie flesh to leather mod
 - Waddles
 - Bridging Mod
+- Removed Loot Integrations
 
 ### Resource Packs
 
