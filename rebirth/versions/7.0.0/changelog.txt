@@ -120,6 +120,7 @@
 - Waddles
 - Bridging Mod
 - Removed Loot Integrations
+- XaeroPlus
 
 ### Resource Packs
 
