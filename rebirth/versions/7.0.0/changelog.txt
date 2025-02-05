@@ -74,6 +74,7 @@
 
 ## 🪲 Fixes
 
+- Fixed Vanilla Nether biomes not generating. (Rolled back BOP) Nether reset recommended.
 - Fixed Lunchbox, Golden Lunchbox, Lunchbag not showing up in JEI
 - Fixed certain foods not contributing towards diversity: 
  - Ambrosia Dew (Aether's Delight)
