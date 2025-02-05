@@ -68,6 +68,14 @@
 
 ## 🪲 Fixes
 
+- Fixed Lunchbox, Golden Lunchbox, Lunchbag not showing up in JEI
+- Fixed certain foods not contributing towards diversity: 
+ - Ambrosia Dew (Aether's Delight)
+ - Aetherflower Tea (Aether's Delight)
+ - Swet Syrup (Aether's Delight)
+ - Chorus Fruit Wine (End's Delight)
+ - Christmas Tea (Festive Delight)
+ - White Apple (Aether)
 - Spawn rules fix. Phantoms should not spawn in overworld.
 - Fixed clay golems spawning too often by yeeting them.
 - Overwriting Voice Chat data when updating
