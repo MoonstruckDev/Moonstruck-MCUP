@@ -69,7 +69,7 @@
   - no longer spawns in villages.
   - no longer spawns in simple dungeons.
   - no longer spawns in woodland mansions.
-
+- Disabled FTB Sidebar buttons
 ---
 
 ## 🪲 Fixes
