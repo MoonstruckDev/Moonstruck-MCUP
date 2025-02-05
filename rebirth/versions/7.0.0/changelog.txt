@@ -21,6 +21,7 @@
 - Shield Banner Fix
 - Spice Of Life Onion
 - Pro Placer
+- EMI and it's addons
 
 - TooFast
 - Log Begone
@@ -123,6 +124,7 @@
 - Bridging Mod
 - Removed Loot Integrations
 - XaeroPlus
+- JEI and it's addons
 
 ### Resource Packs
 
