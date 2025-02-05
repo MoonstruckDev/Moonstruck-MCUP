@@ -46,6 +46,7 @@
 - Removed some splash texts
 - Removed some tips
 - Added some tips and splash texts
+  - Removed non English text
 - Added Custom Waystone names
 - Added Custom Villager names
 - Waystones waypoints get added to new set on Xaero's.
