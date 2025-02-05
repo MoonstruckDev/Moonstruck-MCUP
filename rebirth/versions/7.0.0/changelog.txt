@@ -28,6 +28,8 @@
 - FastAsyncWorldSave
 - Connectivity
 - Better Statistics Screen
+- Not Enough Recipe Book [NERB]
+- Distraction Free Recipes (JEI...)
 
 ### Resource Packs
 
