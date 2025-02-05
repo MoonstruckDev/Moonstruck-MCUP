@@ -107,7 +107,10 @@
 & more
 
 
-- Forge 47.3.25
+## Rollback
+
+- Biomes O Plenty 19.0.0.94 => 18.0.0.598
+
 
 ## 💀 Removed
 
@@ -126,6 +129,7 @@
 - Removed Loot Integrations
 - XaeroPlus
 - JEI and it's addons
+- GlitchCore
 
 ### Resource Packs
 
