@@ -21,7 +21,7 @@ To check how much food diversity you have you can make a `Food Book`
 You can mix potions in a cauldron thanks to Amendments
 You can change to dark mode by pressing escape and looking at the moon button.
 Water in cauldrons is now dyeable!
-lose your stuff? no worries it'll be in your gravestone!
+Lose your stuff? no worries it'll be in your gravestone!
 You can craft a sleeping bag to sleep without setting your spawn point
 You can mine or dig out more than one block with hammers and excavators
 You can craft invisible lights with 1 glowstone and 1 gold ingot
