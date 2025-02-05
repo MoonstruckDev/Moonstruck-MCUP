@@ -1,0 +1,29 @@
+Press `F1` to hide the UI
+Press `F2` to screenshot, it automatically copies to your clipboard so you can paste it
+Press `F3` to advanced settings
+Press `F4` to enable freecam
+Press `F5` to enter third person camera
+Press `F6` to configure shaders
+Press `F7` to quickly disable/enable shaders.
+Press `F9` to organise the weapon visualizer
+Press D whilst hovered over an item to delete it
+Press Shift + D whilst hovered over an item to delete all of the same type.
+Press ` To open the quest menu
+Press `c` to zoom!
+You can press `H` to enable the unlocked Elytra cam which is more fun
+You can press `=` for voice config
+Hover over an item and press "shift + x" to send it to chat
+You can press `A` in JEI to favourite an item so it's easier to find
+You can press `Middle Mouse Wheel` to organize your inventory/hotbar
+You can rename a name tag without levels by shift + right clicking with it in hand!
+Is there a sound that's too loud or that you don't like? check the speaker icon in your inventory!
+To check how much food diversity you have you can make a `Food Book`
+You can mix potions in a cauldron thanks to Amendments
+You can change to dark mode by pressing escape and looking at the moon button.
+Water in cauldrons is now dyeable!
+lose your stuff? no worries it'll be in your gravestone!
+You can craft a sleeping bag to sleep without setting your spawn point
+You can mine or dig out more than one block with hammers and excavators
+You can craft invisible lights with 1 glowstone and 1 gold ingot
+Put a magma block under a cauldron with liquid :)
+Coloured water is also waterloggable!
