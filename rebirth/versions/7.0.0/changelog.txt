@@ -70,11 +70,11 @@
   - no longer spawns in simple dungeons.
   - no longer spawns in woodland mansions.
 - Disabled FTB Sidebar buttons
-- Enabled Acorns in Delightful
 ---
 
 ## 🪲 Fixes
 
+- Acorns not dropping from trees
 - Fixed Vanilla Nether biomes not generating. (Rolled back BOP) Nether reset recommended.
 - Fixed Lunchbox, Golden Lunchbox, Lunchbag not showing up in JEI
 - Fixed certain foods not contributing towards diversity: 
@@ -112,7 +112,7 @@
 ## Rollback
 
 - Biomes O Plenty 19.0.0.94 => 18.0.0.598
-
+- Delightful 3.6.2 => 3.6.1
 
 ## 💀 Removed
 
