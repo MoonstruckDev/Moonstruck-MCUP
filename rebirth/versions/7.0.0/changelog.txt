@@ -90,6 +90,7 @@
 - Waystones not costing XP
 - Fixed Mindful Darkness applying to hearts
 - Fixed Waypoints showing up in all dimensions.
+- Fixed mindful darkness applying to advancement plaques when it shouldn't.
 
 
 ## 📥 Updated
