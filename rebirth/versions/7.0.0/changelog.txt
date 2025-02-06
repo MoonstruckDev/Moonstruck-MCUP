@@ -70,6 +70,7 @@
   - no longer spawns in simple dungeons.
   - no longer spawns in woodland mansions.
 - Disabled FTB Sidebar buttons
+- Enabled Acorns in Delightful
 ---
 
 ## 🪲 Fixes
