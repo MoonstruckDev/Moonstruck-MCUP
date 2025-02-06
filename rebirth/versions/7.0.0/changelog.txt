@@ -1,148 +1,133 @@
-# 7.0.0 Feast & Fables Update 🍽️📜
+# 7.0.0 Feast & Fables Update
 
-## Added
+== Added ==
 
-- Pale Garden
-- Trial Chambers [1.20.1 Backport]
-
-- Ube's Delight
-- Miner's Delight
-- Large Meals
-- Cultural Delight
-- More Delight
+**Mods & Features:**
 - Auto Chef's Delight
-
-- Wooled Boots
-- Inventory Sorter (Configurable) fork of CPW's
+- Cultural Delight
 - Easy Shulker Boxes
-- Villager Names
-- Villager Comfort
+- EMI and its addons
 - Gravestone x Curios API compat
+- Inventory Sorter (Configurable) fork of CPW's
+- Large Meals
+- Miner's Delight
+- More Delight
+- Pale Garden
+- Pro Placer
+- Recipe Essentials
 - Shield Banner Fix
 - Spice Of Life Onion
-- Pro Placer
-- EMI and it's addons
-
 - TooFast
-- Log Begone
-- Recipe Essentials
-- FastAsyncWorldSave
-- Connectivity
+- Trial Chambers [1.20.1 Backport]
+- Ube's Delight
+- Villager Comfort
+- Villager Names
+- Wooled Boots
+
+**Performance & QoL:**
 - Better Statistics Screen
-- Not Enough Recipe Book [NERB]
+- Connectivity
 - Distraction Free Recipes (JEI...)
+- FastAsyncWorldSave
+- Log Begone
+- Not Enough Recipe Book [NERB]
 
-### Resource Packs
-
-- Moonstruck's GFX Pack
+**Resource Packs:**
 - Beachparty Loot Tweaks
+- Moonstruck's GFX Pack
 
-## 🔧 Changes
+== Changes ==
 
-- All my homies hate exposed cut stairs. "Lightly Weathered Cut Copper Stairs" is now back!
-- Nerfed Spice Of Life
-  - Lessened the amount of hearts
-  - Decreased the amount of meals decay starts to apply from
-
-- Disabled Clay Golems (No more army of the ten thousand in MC)
-- Removed Trashslot UI Keybind
-- Changed Trashslot Delete Keybinds
-- Changed Minimap Settings keybind
-- Removed some splash texts
-- Removed some tips
-- Added some tips and splash texts
-  - Removed non English text
-- Added Custom Waystone names
-- Added Custom Villager names
-- Waystones waypoints get added to new set on Xaero's.
-- Hide Golden Swet balls in resource menu
-- Updated resourcepackoverrides config to support new GFX pack
+- "Lightly Weathered Cut Copper Stairs" is back!
+- Changed bookshelf level 30 requirement to 16 (was 15) for symmetry.
+- Changed Minimap Settings keybind.
+- Changed Trashslot Delete Keybinds.
+- Disabled Clay Golems.
+- Disabled FTB Sidebar buttons.
+- Hide Golden Swet balls in resource menu.
+- Hide Trapped cakes in JEI.
+- Level 60 XP tome (was 30).
+- Made Backpack recipe use leather instead of rabbit hide.
+- Nerfed Spice Of Life (fewer hearts, decay starts sooner).
+- Reduced axolotl & pelican ring spawn rate.
+- Removed some splash texts and tips.
+- Removed Trashslot UI Keybind.
 - Turtle Soups & Soups now stack to 16!
-- Changed bookshelf level 30 requirement to 16 was 15. This is so you can make it symmetrical :) 15/2 = 7.5, you can't have .5 of a bookshelf.
-- Level 60 xp tome, was 30
-- Made Backpack recipe use leather instead of rabbit hide
-- Hide Trapped cakes in JEI
-- Generated waystones are unbreakable.
-- reduced axolotl & pelican ring spawn rate
-- beachparty loot no longer spaws in certain chests:
-  - No longer spawns in desert pyramids.
-  - no longer spawns in villages.
-  - no longer spawns in simple dungeons.
-  - no longer spawns in woodland mansions.
-- Disabled FTB Sidebar buttons
----
+- Updated resource pack overrides config.
+- Waystones waypoints now added to new set on Xaero's.
+- Waystones are now unbreakable when generated.
+- Added:
+  - Custom Villager names.
+  - Custom Waystone names.
+  - Some tips and splash texts (Removed non-English text).
+- Beachparty loot no longer spawns in:
+  - Desert Pyramids
+  - Simple Dungeons
+  - Villages
+  - Woodland Mansions
 
-## 🪲 Fixes
+== Fixes ==
 
-- Acorns not dropping from trees
-- Fixed Vanilla Nether biomes not generating. (Rolled back BOP) Nether reset recommended.
-- Fixed Lunchbox, Golden Lunchbox, Lunchbag not showing up in JEI
-- Fixed certain foods not contributing towards diversity: 
- - Ambrosia Dew (Aether's Delight)
- - Aetherflower Tea (Aether's Delight)
- - Swet Syrup (Aether's Delight)
- - Chorus Fruit Wine (End's Delight)
- - Christmas Tea (Festive Delight)
- - White Apple (Aether)
-- Spawn rules fix. Phantoms should not spawn in overworld.
-- Fixed clay golems spawning too often by yeeting them.
-- Overwriting Voice Chat data when updating
-- Backpacks, Quivers and more not equipping when unboxing a cold one (gravestone)
-- Waystones not costing XP
-- Fixed Mindful Darkness applying to hearts
+- Acorns not dropping from trees.
+- Backpacks, Quivers, and more not equipping from gravestone loot.
+- Clay Golems spawning too often.
+- Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
+- Fixed Mindful Darkness applying to hearts and advancement plaques.
+- Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
 - Fixed Waypoints showing up in all dimensions.
-- Fixed mindful darkness applying to advancement plaques when it shouldn't.
+- Fixed Waystones not costing XP.
+- Overwriting Voice Chat data when updating.
+- Phantoms should no longer spawn in the overworld.
+- Fixed certain foods not contributing towards diversity:
+  - **Aether's Delight:** Ambrosia Dew, Aetherflower Tea, Swet Syrup
+  - **End's Delight:** Chorus Fruit Wine
+  - **Festive Delight:** Christmas Tea
+  - **Aether:** White Apple
 
+== Updated ==
 
-## 📥 Updated
-
-- Farmer's Delight
-- Waystones
 - Amendments
-- Supplementaries
-- The Aether
+- Controllable
 - Deep Aether
 - Every Compat
+- Farmer's Delight
+- Supplementaries
+- The Aether
 - Waystones
-- Controllable
 
-& more
+== Rollback ==
 
+- Biomes O' Plenty: 19.0.0.94 → 18.0.0.598
+- Delightful: 3.6.2 → 3.6.1
 
-## Rollback
+== Removed ==
 
-- Biomes O Plenty 19.0.0.94 => 18.0.0.598
-- Delightful 3.6.2 => 3.6.1
-
-## 💀 Removed
-
-- World Pre Generator (Most power users will add this themselves)
-- Inventory Sorter by CPW
-- Spice Of Life: Apple Pie
+**Mods:**
 - Armor Stands
-- WITS
-- FastPortals
+- Bridging Mod
 - Disenchanting Table
+- FastPortals
+- GlitchCore
+- Inventory Sorter by CPW
+- JEI and its addons
+- Loot Integrations
 - Max Health Fix
 - Saturn
-- Zombie flesh to leather mod
+- Spice Of Life: Apple Pie
+- WITS
 - Waddles
-- Bridging Mod
-- Removed Loot Integrations
+- World Pre Generator
 - XaeroPlus
-- JEI and it's addons
-- GlitchCore
+- Zombie Flesh to Leather Mod
 
-### Resource Packs
-
-- Moon's Transparent Player Background
-- Shield Corrections
+**Resource Packs:**
 - Crosshair
 - Embellished Stone
+- Moon's Transparent Player Background
+- Shield Corrections
 
+== Known Bugs ==
 
-## Known Bugs
-https://github.com/AlexModGuy/DomesticationInnovation/issues/241
-https://github.com/AlexModGuy/DomesticationInnovation/issues/242
-https://github.com/Asek3/Oculus/issues/592
-
+- Domestication Innovation Issue #241: https://github.com/AlexModGuy/DomesticationInnovation/issues/241
+- Domestication Innovation Issue #242: https://github.com/AlexModGuy/DomesticationInnovation/issues/242
+- Oculus Issue #592: https://github.com/Asek3/Oculus/issues/592
