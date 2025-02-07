@@ -132,3 +132,4 @@
 - Domestication Innovation Issue #241: https://github.com/AlexModGuy/DomesticationInnovation/issues/241
 - Domestication Innovation Issue #242: https://github.com/AlexModGuy/DomesticationInnovation/issues/242
 - Oculus Issue #592: https://github.com/Asek3/Oculus/issues/592
+- Delightful Issue #111: https://github.com/brnbrd/Delightful/issues/111#issuecomment-2641826761 
