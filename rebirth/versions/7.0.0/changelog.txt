@@ -48,6 +48,7 @@
 - Hide Trapped cakes in JEI.
 - Level 60 XP tome (was 30).
 - Made Backpack recipe use leather instead of rabbit hide.
+- Made Recipe Book show EMI craftables
 - Nerfed Spice Of Life (fewer hearts, decay starts sooner).
 - Reduced axolotl & pelican ring spawn rate.
 - Removed some splash texts and tips.
