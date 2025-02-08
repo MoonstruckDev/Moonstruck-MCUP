@@ -117,6 +117,7 @@
 - Armor Stands
 - Bridging Mod
 - Disenchanting Table
+- DynamicFPS
 - FastPortals
 - GlitchCore
 - Inventory Sorter by CPW
