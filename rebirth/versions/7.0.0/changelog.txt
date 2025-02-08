@@ -42,6 +42,7 @@
 == Changes ==
 
 - "Lightly Weathered Cut Copper Stairs" is back!
+- Bound Crawl on demand to 'B'
 - Changed bookshelf level 30 requirement to 16 (was 15) for symmetry.
 - Changed Minimap Settings keybind.
 - Changed Trashslot Delete Keybinds.
