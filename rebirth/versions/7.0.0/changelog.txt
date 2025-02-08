@@ -27,6 +27,7 @@
 - Connectivity
 - Crawl On Demand
 - Distraction Free Recipes (JEI...)
+- DurabilityTooltip
 - FastAsyncWorldSave
 - Log Begone
 - Not Enough Recipe Book [NERB]
