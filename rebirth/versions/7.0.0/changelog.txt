@@ -93,6 +93,7 @@
   - **Festive Delight:** Christmas Tea
   - **Aether:** White Apple
 - Fixed "dotty" hotbar when darkmode is on. Default Minecraft ui isn't quite clear, I retextured it.
+- ColoredWater console spam gone
 
 == Updated ==
 
