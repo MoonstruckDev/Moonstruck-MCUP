@@ -10,6 +10,7 @@ Press D whilst hovered over an item to delete it
 Press Shift + D whilst hovered over an item to delete all of the same type.
 Press ` To open the quest menu
 Press `c` to zoom!
+Press `B` to crawl!
 You can press `H` to enable the unlocked Elytra cam which is more fun
 You can press `=` for voice config
 Hover over an item and press "shift + x" to send it to chat
