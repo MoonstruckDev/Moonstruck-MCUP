@@ -3,19 +3,14 @@
 == Added ==
 
 **Mods & Features:**
-- Auto Chef's Delight
+
 - Cultural Delight
 - Easy Shulker Boxes
-- EMI and its addons
-- Gravestone x Curios API compat
-- Inventory Sorter (Configurable) fork of CPW's
 - Large Meals
 - Miner's Delight
 - More Delight
 - Pale Garden
 - Pro Placer
-- Recipe Essentials
-- Shield Banner Fix
 - Spice Of Life Onion
 - TooFast
 - Trial Chambers [1.20.1 Backport]
@@ -25,12 +20,18 @@
 - Wooled Boots
 
 **Performance & QoL:**
-- Better Statistics Screen
+- Auto Chef's Delight
 - Connectivity
 - Distraction Free Recipes (JEI...)
 - FastAsyncWorldSave
 - Log Begone
 - Not Enough Recipe Book [NERB]
+- Recipe Essentials
+- Shield Banner Fix
+- EMI and its addons
+- Gravestone x Curios API compat
+- Inventory Sorter (Configurable) fork of CPW's
+
 
 **Resource Packs:**
 - Beachparty Loot Tweaks
@@ -49,6 +50,11 @@
 - Level 60 XP tome (was 30).
 - Made Backpack recipe use leather instead of rabbit hide.
 - Made Recipe Book show EMI craftables
+- Mindful Darkness: 
+  - Now Ignores Overflowing bars (extra health)
+  - Now Ignores Advancement Plaques (extra health)
+  - Little bit lighter so it's not so dark. (Uses linear and grayscale instead of Grayscale + HSL)
+
 - Nerfed Spice Of Life (fewer hearts, decay starts sooner).
 - Reduced axolotl & pelican ring spawn rate.
 - Removed some splash texts and tips.
@@ -73,7 +79,6 @@
 - Backpacks, Quivers, and more not equipping from gravestone loot.
 - Clay Golems spawning too often.
 - Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
-- Fixed Mindful Darkness applying to hearts and advancement plaques.
 - Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
 - Fixed Waypoints showing up in all dimensions.
 - Fixed Waystones not costing XP.
