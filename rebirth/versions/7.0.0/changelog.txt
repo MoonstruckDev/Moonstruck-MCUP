@@ -22,6 +22,7 @@
 **Performance & QoL:**
 - Auto Chef's Delight
 - Connectivity
+- Crawl On Demand
 - Distraction Free Recipes (JEI...)
 - FastAsyncWorldSave
 - Log Begone
