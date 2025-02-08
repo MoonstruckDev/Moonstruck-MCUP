@@ -85,6 +85,7 @@
 - Clay Golems spawning too often.
 - Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
 - Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
+- Fixed Doors water logging, shouldn't have been. Thanks dramatic doors.
 - Fixed Waypoints showing up in all dimensions.
 - Fixed Waystones not costing XP.
 - Overwriting Voice Chat data when updating.
