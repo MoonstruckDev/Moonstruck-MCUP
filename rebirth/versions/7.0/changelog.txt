@@ -54,8 +54,10 @@
 - Changed Trashslot Delete Keybinds.
 - Disabled Clay Golems.
 - Disabled FTB Sidebar buttons.
+- Disabled Mod Name in Jade
+- Enabled Fishing Fanatic, welcome back
 - Hide Golden Swet balls in resource menu.
-- Hide Trapped cakes in JEI.
+- Hide Trapped cakes in Jade.
 - Level 60 XP tome (was 30).
 - Made Backpack recipe use leather instead of rabbit hide.
 - Made Recipe Book show EMI craftables
