@@ -37,6 +37,7 @@
 - Gravestone x Curios API compat
 - Inventory Sorter (Configurable) fork of CPW's
 - Pickup Notifier
+- Neko's Enchanted Books
 
 
 
