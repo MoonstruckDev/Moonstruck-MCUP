@@ -55,7 +55,7 @@
 - Changed Trashslot Delete Keybinds.
 - Disabled Clay Golems.
 - Disabled FTB Sidebar buttons.
-- Disabled Mod Name in Jade
+- Disabled Mod Name Tooltip in Jade
 - Enabled Fishing Fanatic, welcome back
 - Hide Golden Swet balls in resource menu.
 - Hide Trapped cakes in Jade.
