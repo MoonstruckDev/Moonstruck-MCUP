@@ -42,6 +42,7 @@
 **Resource Packs:**
 - Beachparty Loot Tweaks
 - Moonstruck's GFX Pack
+- StayTrue No Bushy Leaves
 
 == Changes ==
 
