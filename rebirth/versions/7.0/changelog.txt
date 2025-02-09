@@ -85,6 +85,7 @@
   - Simple Dungeons
   - Villages
   - Woodland Mansions
+- XP no longer gets taxed on xp tomes
 
 Fancy Menu
 
