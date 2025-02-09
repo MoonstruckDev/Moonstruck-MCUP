@@ -101,6 +101,7 @@ Fancy Menu
 - Acorns not dropping from trees.
 - Backpacks, Quivers, and more not equipping from gravestone loot.
 - Clay Golems spawning too often.
+- Dark "Inventory mod config" icons fixed.
 - Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
 - Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
 - Fixed Doors water logging, shouldn't have been. Thanks dramatic doors.
