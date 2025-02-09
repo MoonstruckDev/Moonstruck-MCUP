@@ -85,6 +85,13 @@
   - Villages
   - Woodland Mansions
 
+Fancy Menu
+
+- Option Screen button textures removed. 
+- Discord button added
+- Feedback button now leads to comments on modpack page.
+- New Loading Screen
+
 == Fixes ==
 
 - Graphical Screen Tears when shaders are enabled (White Dots/Lines)
