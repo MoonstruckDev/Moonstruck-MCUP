@@ -81,6 +81,8 @@
 
 == Fixes ==
 
+- Graphical Screen Tears when shaders are enabled (White Dots/Lines)
+
 - Acorns not dropping from trees.
 - Backpacks, Quivers, and more not equipping from gravestone loot.
 - Clay Golems spawning too often.
@@ -129,6 +131,7 @@
 - JEI and its addons
 - Loot Integrations
 - Max Health Fix
+- Model Gap Fix
 - Saturn
 - Spice Of Life: Apple Pie
 - WITS
@@ -147,4 +150,4 @@
 
 - Domestication Innovation Issue #241: https://github.com/AlexModGuy/DomesticationInnovation/issues/241
 - Domestication Innovation Issue #242: https://github.com/AlexModGuy/DomesticationInnovation/issues/242
-- Oculus Issue #592: https://github.com/Asek3/Oculus/issues/592
+
