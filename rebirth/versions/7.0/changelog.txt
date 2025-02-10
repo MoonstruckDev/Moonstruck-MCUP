@@ -55,13 +55,15 @@
 - Clay Golems disabled. 
 - Capped otter spawn rate.
 - Custom Waystone and Villager names added. 
-- Disabled FTB Sidebar buttons. 
+- Disabled FTB Sidebar buttons.
+- Disabled SimplySwords Book on join 
 - Disabled Mod Name Tooltip in Jade.
 - Disabled Trashslot UI Keybind. 
 - Fishing Fanatic now enabled.
 - Hide Golden Swet balls in resource menu. 
 - Hide Trapped cakes in Jade.
-- Nerfed Spice Of Life (fewer hearts, decay starts sooner). 
+- Nerfed Spice Of Life (fewer hearts, decay starts sooner).
+- Quest book added on join! 
 - Reduced axolotl & pelican ring spawn rate. 
 - Turtle Soups & Soups now stack to 16!
 - Updated resource pack overrides config. 
@@ -78,6 +80,7 @@
 - Now Ignores Overflowing bars (extra health)
 - Now Ignores Advancement Plaques
 - Now Ignores InvenotryHUD Mod Options
+- Now Ignores Patchouli Books
 - Little bit lighter so it's not so dark.
 
 ### **Miscellaneous:**
@@ -128,6 +131,7 @@
 ## == Updated ==
 
 - Amendments
+- Aquaculture Delight
 - Backpacked
 - Controllable
 - Deep Aether
