@@ -1,9 +1,8 @@
 # 7.0.0 Feast & Fables Update
 
-== Added ==
+## == Added ==
 
-**Mods & Features:**
-
+### **Mods & Features:**
 - Cultural Delight
 - Corpse
 - Easy Shulker Boxes
@@ -22,102 +21,107 @@
 - WaveyCapes
 - Wooled Boots
 
-
-**Performance & QoL:**
+### **Performance & QoL:**
 - Auto Chef's Delight
 - Connectivity
 - Crawl On Demand
 - Distraction Free Recipes (JEI...)
-- FastAsyncWorldSave
-- Log Begone
-- Not Enough Recipe Book [NERB]
-- Shield Banner Fix
 - EMI and its addons
-- Corpse x Curios API compat
+- FastAsyncWorldSave
 - Inventory Sorter (Configurable) fork of CPW's
-- Pickup Notifier
+- Log Begone
 - Neko's Enchanted Books
+- Not Enough Recipe Book [NERB]
+- Pickup Notifier
+- Shield Banner Fix
+- Corpse x Curios API compat
 
-
-
-**Resource Packs:**
+### **Resource Packs:**
+- Backpacked Recipe Fix
 - Beachparty Loot Tweaks
 - Moonstruck's GFX Pack
 - StayTrue No Bushy Leaves
-- Backpacked Recipe Fix
 
-== Changes ==
+---
 
-- "Lightly Weathered Cut Copper Stairs" is back! ‎ ‎ 
-- Bound Crawl on demand to 'B' ‎ ‎ 
-- Bushy Leaves disabled by default. (Enabled via texture packs) ‎ ‎ 
-- Changed bookshelf level 30 requirement to 16 (was 15) for symmetry. ‎ ‎ 
-- Changed Minimap Settings keybind. ‎ ‎ 
-- Changed Trashslot Delete Keybinds. ‎ ‎ 
-- Disabled Clay Golems. ‎ ‎ 
-- Disabled FTB Sidebar buttons. ‎ ‎ 
-- Disabled Mod Name Tooltip in Jade ‎ ‎ 
-- Enabled Fishing Fanatic, welcome back ‎ ‎ 
-- Hide Golden Swet balls in resource menu. ‎ ‎ 
-- Hide Trapped cakes in Jade. ‎ ‎ 
-- Level 60 XP tome (was 30). ‎ ‎ 
-- XP no longer gets taxed on xp tomes ‎ ‎ 
-- Made Backpack recipe use leather instead of rabbit hide. ‎ ‎ 
-- Made Recipe Book show EMI craftables ‎ ‎ 
-- Mindful Darkness:  ‎ ‎ 
-  - Now Ignores Overflowing bars (extra health) ‎ ‎ 
-  - Now Ignores Advancement Plaques (extra health) ‎ ‎ 
-  - Little bit lighter so it's not so dark.
+## == Changes ==
 
-- Nerfed Spice Of Life (fewer hearts, decay starts sooner). ‎ ‎ 
-- Reduced axolotl & pelican ring spawn rate. ‎ ‎ 
-- Removed some splash texts and tips. ‎ ‎ 
-- Removed Trashslot UI Keybind. ‎ ‎ 
-- Turtle Soups & Soups now stack to 16! ‎ ‎ 
-- Updated resource pack overrides config. ‎ ‎ 
-- Waystones are now unbreakable when generated. ‎ ‎ 
-- Added:‎ ‎ 
-  - Custom Villager names.‎ ‎ 
-  - Custom Waystone names.‎ ‎ 
-  - Some tips and splash texts (Removed non-English text). ‎ ‎ 
-- Beachparty loot no longer spawns in: ‎ ‎ 
+### **Gameplay Changes:**
+- "Lightly Weathered Cut Copper Stairs" is back! ‎ 
+- Bound Crawl on demand to 'B' ‎
+- Clay Golems disabled. 
+- Custom Waystone and Villager names added. 
+- Disabled FTB Sidebar buttons. 
+- Disabled Mod Name Tooltip in Jade.
+- Disabled Trashslot UI Keybind. 
+- Fishing Fanatic now enabled.
+- Hide Golden Swet balls in resource menu. 
+- Hide Trapped cakes in Jade.
+- Nerfed Spice Of Life (fewer hearts, decay starts sooner). 
+- Reduced axolotl & pelican ring spawn rate. 
+- Turtle Soups & Soups now stack to 16!
+- Updated resource pack overrides config. 
+- Waystones are now unbreakable when generated. 
+- Waystone names now customizable.
+
+### **Experience & Inventory Changes:**
+- Level 60 XP tome (was 30). 
+- XP no longer gets taxed on xp tomes.
+- Made Backpack recipe use leather instead of rabbit hide. 
+- Made Recipe Book show EMI craftables. 
+
+### **Mindful Darkness:**
+- Now Ignores Overflowing bars (extra health)
+- Now Ignores Advancement Plaques (extra health)
+- Little bit lighter so it's not so dark.
+
+### **Miscellaneous:**
+- Removed some splash texts and tips. 
+- Removed Trashslot UI Keybind.
+- Bushy Leaves disabled by default (Enabled via texture packs).
+- Changed bookshelf level 30 requirement to 16 (was 15) for symmetry. 
+- Changed Minimap Settings keybind.
+- Changed Trashslot Delete Keybinds. 
+- Fixed some food diversity contributions:
+  - **Aether's Delight:** Ambrosia Dew, Aetherflower Tea, Swet Syrup
+  - **End's Delight:** Chorus Fruit Wine
+  - **Festive Delight:** Christmas Tea
+  - **Aether:** White Apple
+
+### **Beachparty Loot:**
+- No longer spawns in:
   - Desert Pyramids
   - Simple Dungeons
   - Villages
   - Woodland Mansions
 
+---
 
-Fancy Menu
+## == Fixes ==
 
-- Option Screen button textures removed. ‎ ‎ 
-- Discord button added ‎ ‎ 
-- Feedback button now leads to comments on modpack page. ‎ ‎ 
+### **General Fixes:**
+- Fixed graphical screen tears when shaders are enabled (White Dots/Lines).
+- Fixed Acorns not dropping from trees. 
+- Fixed Backpacks, Quivers, and more not equipping from gravestone loot. 
+- Fixed Clay Golems spawning too often.
+- Fixed Dark "Inventory mod config" icons.
+- Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
+- Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
+- Fixed Doors water logging.
+- Fixed Waypoints showing up in all dimensions.
+- Fixed Waystones not costing XP.
+- Fixed Overwriting Voice Chat data when updating.
+- Fixed Phantoms spawning in the overworld.
+- Fixed certain foods not contributing towards diversity.
 
-== Fixes ==
+### **UI Fixes:**
+- Fixed "dotty" hotbar when darkmode is on. 
+- Fixed ColoredWater console spam.
+- Fixed various console spam.
 
-- Graphical Screen Tears when shaders are enabled (White Dots/Lines) ‎ ‎ 
+---
 
-- Acorns not dropping from trees. ‎ ‎ 
-- Backpacks, Quivers, and more not equipping from gravestone loot. ‎ ‎ 
-- Clay Golems spawning too often. ‎ ‎ 
-- Dark "Inventory mod config" icons fixed. ‎ ‎ 
-- Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI. ‎ ‎ 
-- Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended). ‎ ‎ 
-- Fixed Doors water logging, shouldn't have been. Thanks dramatic doors. ‎ ‎ 
-- Fixed Waypoints showing up in all dimensions. ‎ ‎ 
-- Fixed Waystones not costing XP.‎ ‎ 
-- Overwriting Voice Chat data when updating.‎ ‎ 
-- Phantoms should no longer spawn in the overworld.‎ ‎ 
-- Fixed certain foods not contributing towards diversity ‎ ‎ 
-  - **Aether's Delight:** Ambrosia Dew, Aetherflower Tea, Swet Syrup
-  - **End's Delight:** Chorus Fruit Wine
-  - **Festive Delight:** Christmas Tea
-  - **Aether:** White Apple
-- Fixed "dotty" hotbar when darkmode is on. Default Minecraft ui isn't quite clear, I retextured it. ‎ ‎ 
-- ColoredWater console spam gone ‎ ‎ 
-- various console spam fixed ‎ ‎ 
-
-== Updated ==
+## == Updated ==
 
 - Amendments
 - Backpacked
@@ -131,13 +135,17 @@ Fancy Menu
 - Waystones
 - Forge 47.3.29
 
-== Rollback ==
+---
+
+## == Rollback ==
 
 - Biomes O' Plenty: 19.0.0.94 → 18.0.0.598
 
-== Removed ==
+---
 
-**Mods:**
+## == Removed ==
+
+### **Mods:**
 - Armor Stands
 - Bridging Mod
 - Disenchanting Table
@@ -159,14 +167,15 @@ Fancy Menu
 - Zombie Flesh to Leather Mod
 - Gravestone
 
-**Resource Packs:**
+### **Resource Packs:**
 - Crosshair
 - Embellished Stone
 - Moon's Transparent Player Background
 - Shield Corrections
 
-== Known Bugs ==
+---
 
-- Domestication Innovation Issue #241: https://github.com/AlexModGuy/DomesticationInnovation/issues/241
-- Domestication Innovation Issue #242: https://github.com/AlexModGuy/DomesticationInnovation/issues/242
+## == Known Bugs ==
 
+- **Domestication Innovation Issue #241:** [Link](https://github.com/AlexModGuy/DomesticationInnovation/issues/241)
+- **Domestication Innovation Issue #242:** [Link](https://github.com/AlexModGuy/DomesticationInnovation/issues/242)
