@@ -19,7 +19,7 @@
 - Villager Comfort
 - Villager Names
 - WaveyCapes
-- Wooled Boots
+
 
 ### **Performance & QoL:**
 - Auto Chef's Delight
