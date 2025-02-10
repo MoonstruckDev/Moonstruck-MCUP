@@ -45,6 +45,7 @@
 - Beachparty Loot Tweaks
 - Moonstruck's GFX Pack
 - StayTrue No Bushy Leaves
+- Backpacked Recipe Fix
 
 == Changes ==
 
@@ -121,6 +122,7 @@ Fancy Menu
 == Updated ==
 
 - Amendments
+- Backpacked
 - Controllable
 - Deep Aether
 - Delightful
