@@ -19,6 +19,7 @@
 - Villager Comfort
 - Villager Names
 - WaveyCapes
+- WardenWalkers
 
 
 ### **Performance & QoL:**
