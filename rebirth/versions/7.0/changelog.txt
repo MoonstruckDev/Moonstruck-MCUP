@@ -5,6 +5,7 @@
 **Mods & Features:**
 
 - Cultural Delight
+- Corpse
 - Easy Shulker Boxes
 - Euphoria Patches
 - Large Meals
@@ -32,7 +33,7 @@
 - Not Enough Recipe Book [NERB]
 - Shield Banner Fix
 - EMI and its addons
-- Gravestone x Curios API compat
+- Corpse x Curios API compat
 - Inventory Sorter (Configurable) fork of CPW's
 - Pickup Notifier
 - Neko's Enchanted Books
