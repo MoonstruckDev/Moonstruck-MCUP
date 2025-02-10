@@ -29,6 +29,7 @@
 - Distraction Free Recipes (JEI...)
 - EMI and its addons
 - FastAsyncWorldSave
+- FTB Quest Freeze Fix
 - Inventory Sorter (Configurable) fork of CPW's
 - Log Begone
 - Neko's Enchanted Books
