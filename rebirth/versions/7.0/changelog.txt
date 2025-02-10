@@ -51,6 +51,7 @@
 - Bound Crawl on demand to 'B'
 - Bound Death History to `;` ‎
 - Clay Golems disabled. 
+- Capped otter spawn rate.
 - Custom Waystone and Villager names added. 
 - Disabled FTB Sidebar buttons. 
 - Disabled Mod Name Tooltip in Jade.
