@@ -48,7 +48,8 @@
 
 ### **Gameplay Changes:**
 - "Lightly Weathered Cut Copper Stairs" is back! ‎ 
-- Bound Crawl on demand to 'B' ‎
+- Bound Crawl on demand to 'B'
+- Bound Death History to `;` ‎
 - Clay Golems disabled. 
 - Custom Waystone and Villager names added. 
 - Disabled FTB Sidebar buttons. 
