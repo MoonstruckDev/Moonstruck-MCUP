@@ -72,7 +72,8 @@
 
 ### **Mindful Darkness:**
 - Now Ignores Overflowing bars (extra health)
-- Now Ignores Advancement Plaques (extra health)
+- Now Ignores Advancement Plaques
+- Now Ignores InvenotryHUD Mod Options
 - Little bit lighter so it's not so dark.
 
 ### **Miscellaneous:**
@@ -104,7 +105,6 @@
 - Fixed Acorns not dropping from trees. 
 - Fixed Backpacks, Quivers, and more not equipping from gravestone loot. 
 - Fixed Clay Golems spawning too often.
-- Fixed Dark "Inventory mod config" icons.
 - Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
 - Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
 - Fixed Doors water logging.
