@@ -27,7 +27,6 @@
 - Connectivity
 - Crawl On Demand
 - Distraction Free Recipes (JEI...)
-- EMI and its addons
 - FastAsyncWorldSave
 - FTB Quest Freeze Fix
 - Inventory Sorter (Configurable) fork of CPW's
@@ -37,6 +36,8 @@
 - Pickup Notifier
 - Shield Banner Fix
 - Corpse x Curios API compat
+- Item Filters
+- XMod Compat
 
 ### **Resource Packs:**
 - Backpacked Recipe Fix
@@ -163,7 +164,6 @@
 - GlitchCore
 - Held Item Tooltips
 - Inventory Sorter by CPW
-- JEI and its addons
 - Loot Integrations
 - Max Health Fix
 - Model Gap Fix
