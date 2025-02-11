@@ -125,6 +125,7 @@
 - Fixed "dotty" hotbar when darkmode is on. 
 - Fixed ColoredWater console spam.
 - Fixed various console spam.
+- Fixed FancyMenu post update
 
 ---
 
