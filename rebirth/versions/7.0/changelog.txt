@@ -167,6 +167,7 @@
 - Loot Integrations
 - Max Health Fix
 - Model Gap Fix
+- No Report Button
 - Saturn
 - Spice Of Life: Apple Pie
 - WITS
