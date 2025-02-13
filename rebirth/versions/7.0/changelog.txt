@@ -31,6 +31,7 @@
 - EMI (Runtime is JEI)
 - FastAsyncWorldSave
 - FTB Quest Freeze Fix
+- Global GameRules
 - Inventory Sorter (Configurable) fork of CPW's
 - Log Begone
 - Neko's Enchanted Books
