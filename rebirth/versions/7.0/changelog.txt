@@ -65,7 +65,8 @@
 - Disabled FTB Sidebar buttons.
 - Disabled SimplySwords Book on join 
 - Disabled Mod Name Tooltip in Jade.
-- Disabled Trashslot UI Keybind. 
+- Disabled Trashslot UI Keybind.
+- Disabled Aquaculture 2 unbreakable neptium knife 
 - Fishing Fanatic now enabled.
 - Hide Golden Swet balls in resource menu. 
 - Hide Trapped cakes in Jade.
