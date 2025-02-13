@@ -24,6 +24,7 @@
 
 ### **Performance & QoL:**
 - Auto Chef's Delight
+- Achievements Optimizer
 - Connectivity
 - Crawl On Demand
 - Distraction Free Recipes (JEI...)
@@ -35,6 +36,7 @@
 - Not Enough Recipe Book [NERB]
 - Pickup Notifier
 - Shield Banner Fix
+- Temporary Spawners (doesn't remove, only adds cooldowns)
 - Corpse x Curios API compat
 - Item Filters
 - XMod Compat
@@ -158,6 +160,7 @@
 ### **Mods:**
 - Armor Stands
 - Bridging Mod
+- BedSpreads
 - Disenchanting Table
 - DynamicFPS
 - FastPortals
