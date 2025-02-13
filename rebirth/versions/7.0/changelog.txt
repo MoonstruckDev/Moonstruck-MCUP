@@ -5,6 +5,7 @@
 ### **Mods & Features:**
 - Cultural Delight
 - Corpse
+- Deeper & Darker
 - Easy Shulker Boxes
 - Euphoria Patches
 - Large Meals
