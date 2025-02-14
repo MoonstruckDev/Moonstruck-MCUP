@@ -61,7 +61,9 @@
 - Bound Death History to `;` ‎
 - Clay Golems disabled. 
 - Capped otter spawn rate.
-- Custom Waystone and Villager names added. 
+- Custom Waystone and Villager names added.
+- Changed Jade & InventoryHUD+ potions to left of the screen
+- Changed Potions to normal mode instead of mini 
 - Disabled FTB Sidebar buttons.
 - Disabled SimplySwords Book on join 
 - Disabled Mod Name Tooltip in Jade.
