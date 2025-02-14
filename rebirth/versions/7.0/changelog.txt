@@ -65,6 +65,7 @@
 - Changed Jade & InventoryHUD+ potions to left of the screen
 - Changed Potions to normal mode instead of mini 
 - Disabled FTB Sidebar buttons.
+- Disabled Fog by default
 - Disabled SimplySwords Book on join 
 - Disabled Mod Name Tooltip in Jade.
 - Disabled Trashslot UI Keybind.
