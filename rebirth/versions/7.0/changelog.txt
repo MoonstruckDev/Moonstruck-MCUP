@@ -21,7 +21,7 @@
 - Villager Comfort
 - Villager Names
 - WaveyCapes
-- WardenWalkers
+
 
 
 ### **Performance & QoL:**
@@ -30,6 +30,7 @@
 - Connectivity
 - Crawl On Demand
 - Distraction Free Recipes (JEI...)
+- More Dragon Eggs
 - EMI (Runtime is JEI)
 - FastAsyncWorldSave
 - FTB Quest Freeze Fix
