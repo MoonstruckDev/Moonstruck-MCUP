@@ -57,58 +57,58 @@
 ## == Changes ==
 
 ### **Gameplay Changes:**
-- "Lightly Weathered Cut Copper Stairs" is back! ‎ ✅
-- Bound Crawl on demand to 'B' ✅
-- Bound Death History to `;` ‎✅
-- Clay Golems disabled. ✅
-- Capped otter spawn rate. ✅
-- Custom Waystone and Villager names added. ✅
-- Changed Jade & InventoryHUD+ potions to left of the screen ✅
-- Changed Potions to normal mode instead of mini ✅
-- Disabled FTB Sidebar buttons. ✅
-- Disabled SimplySwords Book on join ✅
-- Disabled Trashslot UI Keybind. ✅
+- "Lightly Weathered Cut Copper Stairs" is back! ‎ ‎ ‎ 
+- Bound Crawl on demand to 'Caps Lock' ‎ ‎ 
+- Bound Death History to `;` ‎‎ ‎ 
+- Clay Golems disabled. ‎ ‎ 
+- Capped otter spawn rate. ‎ ‎ 
+- Custom Waystone and Villager names added. ‎ ‎ 
+- Changed Jade & InventoryHUD+ potions to left of the screen ‎ ‎ 
+- Changed Potions to normal mode instead of mini ‎ ‎ 
+- Disabled FTB Sidebar buttons. ‎ ‎ 
+- Disabled SimplySwords Book on join ‎ ‎ 
+- Disabled Trashslot UI Keybind. ‎ ‎ 
 - Disabled Aquaculture 2 unbreakable neptunium knife 
-- Fishing Fanatic now enabled. ✅
-- Hide Golden Swet balls in resource menu. ✅
-- Hide Trapped cakes in Jade. ✅
-- Nerfed Spice Of Life (fewer hearts, decay starts sooner). ✅
-- Nerfed Formations Rare spawners, increased rarity ✅
-- Quest book added on join! ✅
-- Reduced axolotl & pelican ring spawn rate. ✅
-- Turtle Soups & Soups now stack to 16!✅
-- Updated resource pack overrides config. ✅
-- Waystones are now unbreakable when generated. ✅
-- Waystones: Added custom names. ✅
-- Made Backpack recipe use leather instead of rabbit hide. ✅
-- Made Recipe Book show EMI craftables. ✅
+- Fishing Fanatic now enabled. ‎ ‎ 
+- Hide Golden Swet balls in resource menu. ‎ ‎ 
+- Hide Trapped cakes in Jade. ‎ ‎ 
+- Nerfed Spice Of Life (fewer hearts, decay starts sooner). ‎ ‎ 
+- Nerfed Formations Rare spawners, increased rarity ‎ ‎ 
+- Quest book added on join! ‎ ‎ 
+- Reduced axolotl & pelican ring spawn rate. ‎ ‎ 
+- Turtle Soups & Soups now stack to 16!‎ ‎ 
+- Updated resource pack overrides config. ‎ ‎ 
+- Waystones are now unbreakable when generated. ‎ ‎ 
+- Waystones: Added custom names. ‎ ‎ 
+- Made Backpack recipe use leather instead of rabbit hide. ‎ ‎ 
+- Made Recipe Book show EMI craftables. ‎ ‎ 
 
 ### **Experience & Inventory Changes:**
-- Level 60 XP tome (was 30). ✅
-- XP no longer gets taxed on xp tomes. ✅
+- Level 60 XP tome (was 30). ‎ ‎ 
+- XP no longer gets taxed on xp tomes. ‎ ‎ 
 
 
 ### **Mindful Darkness:**
-- Now Ignores Overflowing bars (extra health) ✅
-- Now Ignores Advancement Plaques ✅
-- Now Ignores InvenotryHUD Mod Options ✅
-- Now Ignores Patchouli Books ✅
-- Now Ignores Nourishing Effect ✅
-- Little bit lighter so it's not so dark. ✅
+- Now Ignores Overflowing bars (extra health) ‎ ‎ 
+- Now Ignores Advancement Plaques ‎ ‎ 
+- Now Ignores InvenotryHUD Mod Options ‎ ‎ 
+- Now Ignores Patchouli Books ‎ ‎ 
+- Now Ignores Nourishing Effect ‎ ‎ 
+- Little bit lighter so it's not so dark. ‎ ‎ 
 
 ### **Miscellaneous:**
-- Removed some splash texts and tips. ✅
-- Bushy Leaves disabled by default (Enabled via texture packs). ✅
-- Changed bookshelf level 30 requirement to 16 (was 15) for symmetry. ✅
-- Changed Minimap Settings keybind. ✅
-- Changed Trashslot Delete Keybinds. ✅
-- Fixed some food diversity contributions: ✅
+- Removed some splash texts and tips. ‎ ‎ 
+- Bushy Leaves disabled by default (Enabled via texture packs). ‎ ‎ 
+- Changed bookshelf level 30 requirement to 16 (was 15) for symmetry. ‎ ‎ 
+- Changed Minimap Settings keybind. ‎ ‎ 
+- Changed Trashslot Delete Keybinds. ‎ ‎ 
+- Fixed some food diversity contributions: ‎ ‎ 
   - **Aether's Delight:** Ambrosia Dew, Aetherflower Tea, Swet Syrup
   - **End's Delight:** Chorus Fruit Wine
   - **Festive Delight:** Christmas Tea
   - **Aether:** White Apple
 
-### **Beachparty Loot:** ✅
+### **Beachparty Loot:** ‎ ‎ 
 - No longer spawns in:
   - Desert Pyramids
   - Simple Dungeons
@@ -132,6 +132,7 @@
 - Fixed Overwriting Voice Chat data when updating.
 - Fixed Phantoms spawning in the overworld.
 - Fixed certain foods not contributing towards diversity.
+- Fixed Cached structures saved incorrectly
 
 ### **UI Fixes:**
 - Fixed "dotty" hotbar when darkmode is on. 
