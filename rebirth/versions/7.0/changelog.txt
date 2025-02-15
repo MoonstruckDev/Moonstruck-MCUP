@@ -76,6 +76,7 @@
 - Hide Golden Swet balls in resource menu. 
 - Hide Trapped cakes in Jade.
 - Nerfed Spice Of Life (fewer hearts, decay starts sooner).
+- Nerfed Formations Witch Tower 2 - Removed Block Of Netherite
 - Quest book added on join! 
 - Reduced axolotl & pelican ring spawn rate. 
 - Turtle Soups & Soups now stack to 16!
