@@ -1,173 +1,129 @@
-# 7.0.0 Feast & Fables Update
+# 🌱 **Feast & Fables Update** - Version 7.0.0
 
-## == Added ==
+---
+
+## 🌿 **Added**
 
 ### **Mods & Features:**
-- Cultural Delight
-- Corpse
-- Deeper & Darker
-- Easy Shulker Boxes
-- Exposure
-- Euphoria Patches
-- Large Meals
-- Miner's Delight
-- More Delight
-- Pale Garden
-- Pro Placer
-- Spice Of Life Onion
-- TooFast
-- Trial Chambers [1.20.1 Backport]
-- Ube's Delight
-- Villager Comfort
-- Villager Names
-- WaveyCapes
-
-
+- **Cultural Delight**
+- **Corpse**
+- **Deeper & Darker**
+- **Easy Shulker Boxes**
+- **Exposure**
+- **Euphoria Patches**
+- **Large Meals**
+- **Miner's Delight**
+- **More Delight**
+- **Pale Garden**
+- **Pro Placer**
+- **Spice Of Life Onion**
+- **TooFast**
+- **Trial Chambers** _(1.20.1 Backport)_
+- **Ube's Delight**
+- **Villager Comfort**
+- **Villager Names**
+- **WaveyCapes**
 
 ### **Performance & QoL:**
-- Auto Chef's Delight
-- Achievements Optimizer
-- Connectivity
-- Crawl On Demand
-- Distraction Free Recipes (JEI...)
-- More Dragon Eggs
-- EMI (Runtime is JEI)
-- FastAsyncWorldSave
-- FTB Quest Freeze Fix
-- Global GameRules
-- Inventory Sorter (Configurable) fork of CPW's
-- Log Begone
-- Neko's Enchanted Books
-- Not Enough Recipe Book [NERB]
-- Pickup Notifier
-- Shield Banner Fix
-- Temporary Spawners (doesn't remove, only adds cooldowns)
-- Corpse x Curios API compat
-- Item Filters
-- XMod Compat
+- **Auto Chef's Delight**
+- **Achievements Optimizer**
+- **Connectivity**
+- **Crawl On Demand**
+- **Distraction Free Recipes** _(JEI...)_
+- **More Dragon Eggs**
+- **EMI** _(Runtime is JEI)_
+- **FastAsyncWorldSave**
+- **FTB Quest Freeze Fix**
+- **Global GameRules**
+- **Inventory Sorter** _(Configurable, fork of CPW's)_
+- **Log Begone**
+- **Neko's Enchanted Books**
+- **Not Enough Recipe Book** _(NERB)_
+- **Pickup Notifier**
+- **Shield Banner Fix**
+- **Temporary Spawners** _(doesn't remove, only adds cooldowns)_
+- **Corpse x Curios API compat**
+- **Item Filters**
+- **XMod Compat**
 
 ### **Resource Packs:**
-- Backpacked Recipe Fix
-- Beachparty Loot Tweaks
-- Moonstruck's GFX Pack
-- ???
-- StayTrue No Bushy Leaves
+- **Backpacked Recipe Fix**
+- **Beachparty Loot Tweaks**
+- **Moonstruck's GFX Pack**
+- **Moonstruck's Hunger Bar**
+- **StayTrue No Bushy Leaves**
 
 ---
 
-## == Changes ==
+## ⚙️ **Changes**
 
 ### **Gameplay Changes:**
-- "Lightly Weathered Cut Copper Stairs" is back! ‎ ‎ ‎ 
-- Bound Crawl on demand to 'Caps Lock' ‎ ‎ 
-- Bound Death History to `;` ‎‎ ‎ 
-- Clay Golems disabled. ‎ ‎ 
-- Capped otter spawn rate. ‎ ‎ 
-- Custom Waystone and Villager names added. ‎ ‎ 
-- Changed Jade & InventoryHUD+ potions to left of the screen ‎ ‎ 
-- Changed Potions to normal mode instead of mini ‎ ‎ 
-- Disabled FTB Sidebar buttons. ‎
-- Disabled Background Exhaustion (Appleskin) ‎ 
-- Disabled SimplySwords Book on join ‎ ‎ 
-- Disabled Trashslot UI Keybind. ‎ ‎ 
-- Disabled Aquaculture 2 unbreakable neptunium knife 
-- Fishing Fanatic now enabled. ‎ ‎ 
-- Hide Golden Swet balls in resource menu. ‎ ‎ 
-- Hide Trapped cakes in Jade. ‎ ‎ 
-- Nerfed Spice Of Life (fewer hearts, decay starts sooner). ‎ ‎ 
-- Nerfed Formations Rare spawners, increased rarity ‎ ‎ 
-- Quest book added on join! ‎ ‎ 
-- Reduced axolotl & pelican ring spawn rate. ‎ ‎ 
-- Turtle Soups & Soups now stack to 16!‎ ‎ 
-- Updated resource pack overrides config. ‎ ‎ 
-- Waystones are now unbreakable when generated. ‎ ‎ 
-- Waystones: Added custom names. ‎ ‎ 
-- Made Backpack recipe use leather instead of rabbit hide. ‎ ‎ 
-- Made Recipe Book show EMI craftables. ‎ ‎ 
+- **"Lightly Weathered Cut Copper Stairs"** is back!
+- Bound **Crawl on demand** to `Caps Lock`
+- Bound **Death History** to `;`
+- **Clay Golems** disabled.
+- **Capped otter spawn rate**.
+- Added **Custom Waystone** and **Villager Names**.
+- Changed **Jade & InventoryHUD+** potions to the left of the screen.
+- Changed potions to **normal mode** instead of mini.
+- Disabled **FTB Sidebar** buttons.
+- Disabled **Background Exhaustion** _(Appleskin)_.
+- Disabled **SimplySwords Book** on join.
+- Disabled **Trashslot UI Keybind**.
+- Disabled **Aquaculture 2 unbreakable neptunium knife**.
+- **Fishing Fanatic** now enabled.
+- **Hide Golden Swet balls** in resource menu.
+- **Hide Trapped cakes** in Jade.
+- Nerfed **Spice of Life** _(fewer hearts, decay starts sooner)_.
+- Nerfed **Formations Rare Spawners**, increased rarity.
+- **Quest Book** added on join.
+- **Reduced axolotl & pelican ring spawn rate**.
+- **Turtle Soups** & **Soups** now stack to 16!
+- Updated **resource pack overrides config**.
+- **Waystones** are now unbreakable when generated.
+- **Waystones**: Added custom names.
+- Made **Backpack recipe** use leather instead of rabbit hide.
+- Made **Recipe Book** show **EMI** craftables.
 
 ### **Experience & Inventory Changes:**
-- Level 60 XP tome (was 30). ‎ ‎ 
-- XP no longer gets taxed on xp tomes. ‎ ‎ 
-
-
-### **Mindful Darkness:**
-- Now Ignores Overflowing bars (extra health) ‎ ‎ 
-- Now Ignores Advancement Plaques ‎ ‎ 
-- Now Ignores InvenotryHUD Mod Options ‎ ‎ 
-- Now Ignores Patchouli Books ‎ ‎ 
-- Now Ignores Nourishing Effect ‎ ‎ 
-- Little bit lighter so it's not so dark. ‎ ‎ 
-
-### **Miscellaneous:**
-- Removed some splash texts and tips. ‎ ‎ 
-- Bushy Leaves disabled by default (Enabled via texture packs). ‎ ‎ 
-- Changed bookshelf level 30 requirement to 16 (was 15) for symmetry. ‎ ‎ 
-- Changed Minimap Settings keybind. ‎ ‎ 
-- Changed Trashslot Delete Keybinds. ‎ ‎ 
-- Fixed some food diversity contributions: ‎ ‎ 
-  - **Aether's Delight:** Ambrosia Dew, Aetherflower Tea, Swet Syrup
-  - **End's Delight:** Chorus Fruit Wine
-  - **Festive Delight:** Christmas Tea
-  - **Aether:** White Apple
-
-### **Beachparty Loot:** ‎ ‎ 
-- No longer spawns in:
-  - Desert Pyramids
-  - Simple Dungeons
-  - Villages
-  - Woodland Mansions
+- **Level 60 XP Tome** _(was 30)_.
+- **XP no longer taxed** on XP tomes.
 
 ---
 
-## == Fixes ==
+## 🐞 **Fixes**
 
 ### **General Fixes:**
-- Fixed graphical screen tears when shaders are enabled (White Dots/Lines).
-- Fixed Acorns not dropping from trees. 
-- Fixed Backpacks, Quivers, and more not equipping from gravestone loot. 
-- Fixed Clay Golems spawning too often.
-- Fixed Lunchbox, Golden Lunchbox, and Lunchbag not showing in JEI.
-- Fixed Vanilla Nether biomes not generating (rolled back BOP, Nether reset recommended).
-- Fixed Doors water logging.
-- Fixed Waypoints showing up in all dimensions.
-- Fixed Waystones not costing XP.
-- Fixed Overwriting Voice Chat data when updating.
-- Fixed Phantoms spawning in the overworld.
-- Fixed certain foods not contributing towards diversity.
-- Fixed Cached structures saved incorrectly
+- Fixed **graphical screen tears** when shaders are enabled _(White Dots/Lines)_.
+- Fixed **Acorns** not dropping from trees.
+- Fixed **Backpacks, Quivers**, and more not equipping from gravestone loot.
+- Fixed **Clay Golems** spawning too often.
+- Fixed **Lunchbox, Golden Lunchbox, and Lunchbag** not showing in JEI.
+- Fixed **Vanilla Nether biomes** not generating _(rolled back BOP, Nether reset recommended)_.
+- Fixed **Doors water logging**.
+- Fixed **Waypoints** showing up in all dimensions.
+- Fixed **Waystones** not costing XP.
+- Fixed **Overwriting Voice Chat data** when updating.
+- Fixed **Phantoms** spawning in the overworld.
+- Fixed **certain foods** not contributing towards diversity.
+- Fixed **Cached structures** saved incorrectly.
+- Fixed **Resource Packs Defaults** not applying properly.
 
 ### **UI Fixes:**
-- Fixed "dotty" hotbar when darkmode is on. 
-- Fixed ColoredWater console spam.
-- Fixed various console spam.
-- Fixed FancyMenu post update
+- Fixed **"dotty" hotbar** when dark mode is on.
+- Fixed **ColoredWater console spam**.
+- Fixed various **console spams**.
+- Fixed **FancyMenu** post update.
 
 ---
 
-## == Updated ==
+## 🔙 **Rollback**
 
-- Amendments
-- Aquaculture Delight
-- Backpacked
-- Controllable
-- Deep Aether
-- Delightful
-- Every Compat
-- Farmer's Delight
-- Supplementaries
-- The Aether
-- Waystones
-- Forge 47.3.29
+- **Biomes O' Plenty**: 19.0.0.94 → 18.0.0.598
 
 ---
 
-## == Rollback ==
-
-- Biomes O' Plenty: 19.0.0.94 → 18.0.0.598
-
----
-
-## == Removed ==
+## ⚒️ **Removed**
 
 ### **Mods:**
 - Armor Stands
@@ -199,10 +155,3 @@
 - Embellished Stone
 - Moon's Transparent Player Background
 - Shield Corrections
-
----
-
-## == Known Bugs ==
-
-- **Domestication Innovation Issue #241:** [Link](https://github.com/AlexModGuy/DomesticationInnovation/issues/241)
-- **Domestication Innovation Issue #242:** [Link](https://github.com/AlexModGuy/DomesticationInnovation/issues/242)
