@@ -1,4 +1,9 @@
+
 # 🍽️ **Feast & Fables Update** - Version 7.0.0
+
+In this update you will find a plethora of new little features to tinker and toy with! Such as new quests! (more coming soon!), new foods, new dimensions and so much more. I am so happy with the way this content update shaped up. 
+
+I managed to fix a decent chunk of bugs that have been plaguing my pack for a while aswell, thank heavens for that! I hope you enjoy and don't forget if you find any bugs to report them in my discord and if you enjoy to leave a comment on the mod page
 
 ---
 
