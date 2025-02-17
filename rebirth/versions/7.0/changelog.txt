@@ -65,7 +65,8 @@
 - Custom Waystone and Villager names added. ‎ ‎ 
 - Changed Jade & InventoryHUD+ potions to left of the screen ‎ ‎ 
 - Changed Potions to normal mode instead of mini ‎ ‎ 
-- Disabled FTB Sidebar buttons. ‎ ‎ 
+- Disabled FTB Sidebar buttons. ‎
+- Disabled Background Exhaustion (Appleskin) ‎ 
 - Disabled SimplySwords Book on join ‎ ‎ 
 - Disabled Trashslot UI Keybind. ‎ ‎ 
 - Disabled Aquaculture 2 unbreakable neptunium knife 
