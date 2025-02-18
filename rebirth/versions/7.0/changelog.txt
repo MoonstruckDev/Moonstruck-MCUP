@@ -40,6 +40,7 @@
 - **Neko's Enchanted Books**
 - **Not Enough Recipe Book** _(NERB)_
 - **Pickup Notifier**
+- **Sounds**
 - **Shield Banner Fix**
 - **Temporary Spawners** _(doesn't remove, only adds cooldowns)_
 - **Corpse x Curios API compat**
