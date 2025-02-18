@@ -45,6 +45,7 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 - **Neko's Enchanted Books**
 - **Not Enough Recipe Book** _(NERB)_
 - **Pickup Notifier**
+- **Sounds**
 - **Shield Banner Fix**
 - **Temporary Spawners** _(doesn't remove, only adds cooldowns)_
 - **Corpse x Curios API compat**
