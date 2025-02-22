@@ -90,10 +90,9 @@
 ### **Waystones:**
 - **Waystones** are now unbreakable when generated. This is to make villages a bit more of a POI
 - **Waystones**: Added custom names.
-- Distance based xp cost (max level 3, min level 0) 
-- Warp, Return & Bound scrolls disabled since bypass xp cost.
-- Leashed pets don't cost extra xp when tp'ing
-- Sharestones & Portstones are 20% cheaper
+- Removed XP cost
+- Warp, Return & Bound scrolls disabled.
+
 
 ---
 
