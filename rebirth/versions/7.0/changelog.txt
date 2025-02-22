@@ -22,7 +22,6 @@
 - **Ube's Delight**
 - **Villager Comfort**
 - **Villager Names**
-- **WaveyCapes**
 
 ### **Performance & QoL:**
 - **Auto Chef's Delight**
@@ -133,7 +132,6 @@
 - Disenchanting Table
 - DynamicFPS
 - FastPortals
-- Freecam
 - GlitchCore
 - Held Item Tooltips
 - Inventory Sorter by CPW
