@@ -80,14 +80,20 @@
 - **Reduced axolotl & pelican ring spawn rate**.
 - **Turtle Soups** & **Soups** now stack to 16!
 - Updated **resource pack overrides config**.
-- **Waystones** are now unbreakable when generated.
-- **Waystones**: Added custom names.
 - Made **Backpack recipe** use leather instead of rabbit hide.
 - Made **Recipe Book** show **EMI** craftables.
 
 ### **Experience & Inventory Changes:**
 - **Level 60 XP Tome** _(was 30)_.
 - **XP no longer taxed** on XP tomes.
+
+### **Waystones:**
+- **Waystones** are now unbreakable when generated. This is to make villages a bit more of a POI
+- **Waystones**: Added custom names.
+- Distance based xp cost (max level 3, min level 0) 
+- Warp, Return & Bound scrolls disabled since bypass xp cost.
+- Leashed pets don't cost extra xp when tp'ing
+- Sharestones & Portstones are 20% cheaper
 
 ---
 
