@@ -93,7 +93,6 @@
 - Removed XP cost
 - Warp, Return & Bound scrolls disabled.
 
-
 ---
 
 ## 🐞 **Fixes**
@@ -107,7 +106,6 @@
 - Fixed **Vanilla Nether biomes** not generating _(rolled back BOP, Nether reset recommended)_.
 - Fixed **Doors water logging**.
 - Fixed **Waypoints** showing up in all dimensions.
-- Fixed **Waystones** not costing XP.
 - Fixed **Overwriting Voice Chat data** when updating.
 - Fixed **Phantoms** spawning in the overworld.
 - Fixed **certain foods** not contributing towards diversity.
