@@ -27,7 +27,6 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 - **Ube's Delight**
 - **Villager Comfort**
 - **Villager Names**
-- **WaveyCapes**
 
 ### **⚡ Performance & QoL:**
 - **Auto Chef's Delight**
@@ -86,8 +85,6 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 - **Reduced axolotl & pelican ring spawn rate**.
 - **Turtle Soups** & **Soups** now stack to 16!
 - Updated **resource pack overrides config**.
-- **Waystones** are now unbreakable when generated.
-- **Waystones**: Added custom names.
 - Made **Backpack recipe** use leather instead of rabbit hide.
 - Made **Recipe Book** show **EMI** craftables.
 
@@ -103,6 +100,12 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 - Now **ignores Nourishing Effect**.
 - A bit **lighter** so it's not so dark.
 
+### **Waystones:**
+- **Waystones** are now unbreakable when generated. This is to make villages a bit more of a POI
+- **Waystones**: Added custom names.
+- Removed XP cost
+- Warp, Return & Bound scrolls disabled.
+
 ---
 
 ## 🐛 **Fixes**
@@ -116,7 +119,6 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 - Fixed **Vanilla Nether biomes** not generating _(rolled back BOP, Nether reset recommended)_.
 - Fixed **Doors water logging**.
 - Fixed **Waypoints** showing up in all dimensions.
-- Fixed **Waystones** not costing XP.
 - Fixed **Overwriting Voice Chat data** when updating.
 - Fixed **Phantoms** spawning in the overworld.
 - Fixed **certain foods** not contributing towards diversity.
@@ -148,11 +150,6 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 
 ---
 
-## 🔙 **Rollback**
-
-- **Biomes O' Plenty**: 19.0.0.94 → 18.0.0.598
-
----
 
 ## ❌ **Removed**
 
@@ -163,8 +160,6 @@ I managed to fix a decent chunk of bugs that have been plaguing my pack for a wh
 - Disenchanting Table
 - DynamicFPS
 - FastPortals
-- Freecam
-- GlitchCore
 - Held Item Tooltips
 - Inventory Sorter by CPW
 - Loot Integrations

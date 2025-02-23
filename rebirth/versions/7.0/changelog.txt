@@ -1,7 +1,3 @@
-# 🌱 **Feast & Fables Update** - Version 7.0.0
-
----
-
 ## 🌿 **Added**
 
 ### **Mods & Features:**
@@ -120,12 +116,6 @@
 
 ---
 
-## 🔙 **Rollback**
-
-- **Biomes O' Plenty**: 19.0.0.94 → 18.0.0.598
-
----
-
 ## ⚒️ **Removed**
 
 ### **Mods:**
@@ -135,7 +125,6 @@
 - Disenchanting Table
 - DynamicFPS
 - FastPortals
-- GlitchCore
 - Held Item Tooltips
 - Inventory Sorter by CPW
 - Loot Integrations
