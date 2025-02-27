@@ -1,0 +1,41 @@
+# Updated
+
+Aquaculture 2
+Balm
+Collective
+Connectivity
+Corse x Curios API Compat
+Curios API
+Every Compat (Wood Good)
+Falling Leaves
+Fancy Menu
+ImmmediatelyFast
+InsaneLib
+KleeSlabs
+MoonlightLib
+Resourceful Config
+Simple Voice Chat
+Structure Essentials
+Supplementaries
+Waystones
+Xaero's World Map
+Yung's Cave Biomes (Forge)
+
+
+# Changes
+
+Witch tower no longer spawns.
+Disabled Fog by default
+Disabled Vsync by default (begone thot)
+Dragon now drops head each kill
+
+
+# Added
+
+Embeddium
+Embeddium++
+Flerovium
+
+# Removed
+
+Xenon
