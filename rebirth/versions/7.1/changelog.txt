@@ -35,7 +35,13 @@ Dragon now drops head each kill
 Embeddium
 Embeddium++
 Flerovium
+Your Options Shall Be Yours
+YouShallNotSpawn
 
 # Removed
 
 Xenon
+ConfiguredDefaults
+InControl
+Formations
+Formations Overworld
