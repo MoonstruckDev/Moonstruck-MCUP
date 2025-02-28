@@ -2,3 +2,7 @@ Added
 
 Clean tooltips
 
+Changes
+
+Enabled Burn Time on tooltips
+
