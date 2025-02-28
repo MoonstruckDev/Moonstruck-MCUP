@@ -6,3 +6,6 @@ Changes
 
 Enabled Burn Time on tooltips
 
+Fixes
+
+FancyMenu tips
