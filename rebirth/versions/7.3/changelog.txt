@@ -1,11 +1,19 @@
-Added
+## Added
 
 Clean tooltips
+JEI Integrations
+Enhanced Block Entities
 
-Changes
+## Changes
 
 Enabled Burn Time on tooltips
 
-Fixes
+## Fixes
 
 FancyMenu tips
+NBT Loading Error Fix Attempt
+
+## Updated
+
+Delightful
+Moonlight Lib
