@@ -61,26 +61,6 @@
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/6133558"
             }
         }
-    },
-    {
-        "id": "7.0",
-        "releasedAt": 1739875544053,
-	"updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/6222372"
-            }
-        }
-    },
-    {
-        "id": "7.2",
-        "releasedAt": 1740735573185,
-	"updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/6244131"
-            }
-        }
     }
   ]
 }
